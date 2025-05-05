@@ -1,0 +1,68 @@
+﻿@page
+@model VKRvs.Pages.Admin.AdminPanelModel
+@{
+    ViewData["Title"] = "Админ-панель";
+}
+
+<h2>Управление пользователями</h2>
+
+<form method="post" asp-page-handler="AddUser" class="row g-2 mb-4">
+    <div class="col"><input asp-for="NewUser.FirstName" placeholder="Имя" class="form-control" /></div>
+    <div class="col"><input asp-for="NewUser.LastName" placeholder="Фамилия" class="form-control" /></div>
+    <div class="col"><input asp-for="NewUser.Email" placeholder="Email" class="form-control" /></div>
+    <div class="col"><input asp-for="NewUser.PhoneNumber" placeholder="Телефон" class="form-control" /></div>
+    <div class="col"><button type="submit" class="btn btn-primary">Добавить пользователя</button></div>
+</form>
+
+<table class="table table-striped">
+    <thead><tr><th>Имя</th><th>Фамилия</th><th>Email</th><th>Телефон</th><th></th></tr></thead>
+    <tbody>
+        @foreach (var user in Model.Users)
+        {
+            <tr>
+                <td>@user.FirstName</td>
+                <td>@user.LastName</td>
+                <td>@user.Email</td>
+                <td>@user.PhoneNumber</td>
+                <td>
+                    <form method="post" asp-page-handler="DeleteUser">
+                        <input type="hidden" name="id" value="@user.Id" />
+                        <button type="submit" class="btn btn-danger btn-sm">Удалить</button>
+                    </form>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+<hr />
+<h2>Управление меню</h2>
+
+<form method="post" asp-page-handler="AddMenuItem" class="row g-2 mb-4">
+    <div class="col"><input asp-for="NewMenuItem.Name" placeholder="Название" class="form-control" /></div>
+    <div class="col"><input asp-for="NewMenuItem.Price" type="number" step="0.01" placeholder="Цена" class="form-control" /></div>
+    <div class="col"><input asp-for="NewMenuItem.Category" placeholder="Категория" class="form-control" /></div>
+    <div class="col"><input asp-for="NewMenuItem.ImageUrl" placeholder="URL изображения" class="form-control" /></div>
+    <div class="col"><button type="submit" class="btn btn-success">Добавить блюдо</button></div>
+</form>
+
+<table class="table table-bordered">
+    <thead><tr><th>Название</th><th>Цена</th><th>Категория</th><th>Доступно</th><th></th></tr></thead>
+    <tbody>
+        @foreach (var item in Model.MenuItems)
+        {
+            <tr>
+                <td>@item.Name</td>
+                <td>@item.Price</td>
+                <td>@item.Category</td>
+                <td>@(item.IsAvailable == true ? "Да" : "Нет")</td>
+                <td>
+                    <form method="post" asp-page-handler="DeleteMenuItem">
+                        <input type="hidden" name="id" value="@item.Id" />
+                        <button type="submit" class="btn btn-danger btn-sm">Удалить</button>
+                    </form>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

@@ -1,0 +1,78 @@
+﻿@page
+@model VKRvs.Pages.CartModel
+@{
+    ViewData["Title"] = "Корзина";
+}
+
+<div class="container my-5">
+    <h2 class="text-center mb-4">Ваша корзина</h2>
+
+    @if (Model.IsOrderPlaced)
+    {
+        <div class="alert alert-success text-center" role="alert">
+            Ваш заказ успешно оформлен!
+        </div>
+    }
+    else if (Model.CartItems != null && Model.CartItems.Any())
+    {
+        <div class="table-responsive shadow-sm">
+            <table class="table table-bordered table-hover align-middle">
+                <thead class="table-dark">
+                    <tr>
+                        <th>Блюдо</th>
+                        <th>Количество</th>
+                        <th>Цена за штуку</th>
+                        <th>Итого</th>
+                        <th>Действие</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    @foreach (var item in Model.CartItems)
+                    {
+                        <tr>
+                            <td>@item.Menuitem.Name</td>
+                            <td>@item.Quantity</td>
+                            <td>@item.Menuitem.Price р</td>
+                            <td>@(item.Quantity * item.Menuitem.Price) р</td>
+                            <td>
+                                <form method="post" asp-page-handler="Remove" asp-route-id="@item.Id">
+                                    <button type="submit" class="btn btn-sm btn-outline-danger">
+                                        <i class="bi bi-trash"></i> Удалить
+                                    </button>
+                                </form>
+                            </td>
+                        </tr>
+                    }
+                </tbody>
+            </table>
+        </div>
+
+        <div class="d-flex justify-content-between mt-4">
+            <form method="post" asp-page-handler="Clear">
+                <button type="submit" class="btn btn-warning">
+                    <i class="bi bi-x-circle"></i> Очистить корзину
+                </button>
+            </form>
+
+            <form method="post" asp-page-handler="Order">
+                <button type="submit" class="btn btn-success">
+                    <i class="bi bi-check-circle"></i> Оформить заказ
+                </button>
+            </form>
+        </div>
+
+        @if (TempData["OrderMessage"] != null)
+        {
+            <div class="alert alert-success alert-dismissible fade show mt-4" role="alert">
+                @TempData["OrderMessage"]
+                <button type="button" class="btn-close" data-bs-dismiss="alert" aria-label="Закрыть"></button>
+            </div>
+        }
+    }
+    else
+    {
+        <div class="alert alert-info text-center">
+            Корзина пуста. Добавьте блюда из меню.
+        </div>
+    }
+</div>

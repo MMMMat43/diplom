@@ -1,0 +1,28 @@
+﻿@page
+@model VKRvs.Pages.KitchenModel
+
+<h2>Заказы на кухне</h2>
+
+@foreach (var order in Model.Orders)
+{
+    <div style="border: 1px solid #ccc; padding: 10px; margin: 10px;">
+        <h4>Заказ #@order.Id — @order.OrderDate?.ToString("g")</h4>
+        <ul>
+            @foreach (var item in order.Orderitems)
+            {
+                <li>
+                    <strong>@item.Menuitem?.Name</strong> — Кол-во: @item.Quantity — Статус: @item.Status
+                    <form method="post" asp-page-handler="UpdateStatus">
+                        <input type="hidden" name="itemId" value="@item.Id" />
+                        <select name="newStatus">
+                            <option value="Готовится">Готовится</option>
+                            <option value="Готово">Готово</option>
+                            <option value="Отменено">Отменено</option>
+                        </select>
+                        <button type="submit">Обновить</button>
+                    </form>
+                </li>
+            }
+        </ul>
+    </div>
+}

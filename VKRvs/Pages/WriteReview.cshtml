@@ -1,0 +1,41 @@
+﻿@page "{menuItemId:int}"
+@model VKRvs.Pages.WriteReviewModel
+@{
+    ViewData["Title"] = "Оставить отзыв";
+}
+
+<h2>Оставить отзыв на блюдо</h2>
+
+<div class="card">
+    <div class="card-body">
+        <h4>@Model.MenuItemName</h4>
+
+        <form method="post">
+            <div class="mb-3">
+                <label for="Rating" class="form-label">Оценка (1-5):</label>
+                <select asp-for="Rating" class="form-select">
+                    <option value="">Выберите оценку</option>
+                    @for (int i = 1; i <= 5; i++)
+                    {
+                        <option value="@i">@i звёзд</option>
+                    }
+                </select>
+            </div>
+
+            <div class="mb-3">
+                <label for="ReviewText" class="form-label">Текст отзыва:</label>
+                <textarea asp-for="ReviewText" class="form-control" rows="4" placeholder="Напишите ваш отзыв..."></textarea>
+            </div>
+
+            <button type="submit" class="btn btn-success">Отправить отзыв</button>
+            <a asp-page="/MyOrders" class="btn btn-secondary">Назад к заказам</a>
+        </form>
+    </div>
+</div>
+
+@if (!string.IsNullOrEmpty(Model.Message))
+{
+    <div class="alert alert-info mt-3">
+        @Model.Message
+    </div>
+}

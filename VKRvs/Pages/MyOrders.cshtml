@@ -1,0 +1,61 @@
+﻿@page
+@model VKRvs.Pages.MyOrdersModel
+@{
+    ViewData["Title"] = "Мои заказы";
+}
+
+<div class="container my-5">
+    <h2 class="text-center mb-4">Мои заказы</h2>
+
+    @if (Model.Orders.Any())
+    {
+        @foreach (var order in Model.Orders)
+        {
+            <div class="card shadow-sm mb-4 border-0">
+                <div class="card-header bg-dark text-white d-flex justify-content-between align-items-center">
+                    <div>
+                        <i class="bi bi-receipt"></i>
+                        <strong>Заказ №@order.Id</strong> от @order.OrderDate?.ToString("g")
+                    </div>
+                    <div class="text-end">
+                        <span>Итого: <strong>@order.TotalPrice р.</strong></span>
+                    </div>
+                </div>
+
+                <div class="card-body bg-light">
+                    @foreach (var item in order.Orderitems)
+                    {
+                        <div class="row align-items-center mb-3">
+                            <div class="col-md-8">
+                                <i class="bi bi-basket-fill text-primary me-2"></i>
+                                <strong>@item.Menuitem?.Name</strong> × @item.Quantity шт.
+                            </div>
+                            <div class="col-md-4 text-end">
+                                @if (!Model.ReviewedItemIds.Contains(item.MenuitemId ?? 0))
+                                {
+                                    <form method="post" asp-page-handler="WriteReview">
+                                        <input type="hidden" name="menuItemId" value="@item.MenuitemId" />
+                                        <button type="submit" class="btn btn-sm btn-outline-primary">
+                                            <i class="bi bi-pencil-square"></i> Оставить отзыв
+                                        </button>
+                                    </form>
+                                }
+                                else
+                                {
+                                    <span class="badge bg-success"><i class="bi bi-check2-circle me-1"></i> Отзыв добавлен</span>
+                                }
+                            </div>
+                        </div>
+                        <hr />
+                    }
+                </div>
+            </div>
+        }
+    }
+    else
+    {
+        <div class="alert alert-info text-center">
+            <i class="bi bi-emoji-frown"></i> Вы ещё не оформляли заказы.
+        </div>
+    }
+</div>

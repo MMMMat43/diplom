@@ -1,0 +1,56 @@
+/* Базовая стилизация страницы */
+body {
+    background-color: #fff7f0; /* Мягкий тёплый цвет */
+    font-family: 'Poppins', sans-serif;
+    color: #333;
+    margin: 0;
+    padding: 0;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+}
+
+/* Контейнер для основного контента */
+.container {
+    flex: 1;
+}
+
+/* Универсальные карточки (меню, товары, заказы и т.д.) */
+.card {
+    background-color: #fff;
+    border-radius: 12px;
+    padding: 16px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.08);
+    margin-bottom: 20px;
+}
+
+/* Кнопки в фирменном стиле */
+.btn-main {
+    background-color: #e67e22;
+    color: white;
+    border: none;
+    border-radius: 8px;
+    padding: 10px 16px;
+    cursor: pointer;
+    font-weight: bold;
+    transition: background-color 0.3s ease;
+}
+
+    .btn-main:hover {
+        background-color: #d35400;
+    }
+
+/* Шапка (если используешь fixed-top) */
+.navbar {
+    background-color: #fff8ec !important;
+    box-shadow: 0 2px 6px rgba(0,0,0,0.1);
+}
+
+/* Нижний колонтитул */
+.footer {
+    background-color: #fff3e6;
+    text-align: center;
+    padding: 10px;
+    font-size: 14px;
+    color: #777;
+}

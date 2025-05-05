@@ -1,0 +1,47 @@
+﻿@page
+@model VKRvs.Pages.RegisterModel
+@{
+    ViewData["Title"] = "Регистрация";
+}
+
+<div class="container mt-5">
+    <div class="row justify-content-center">
+        <div class="col-md-6">
+            <div class="card shadow-sm">
+                <div class="card-body">
+                    <h2 class="card-title text-center mb-4">Регистрация</h2>
+                    <form method="post">
+                        <div class="mb-3">
+                            <label for="FirstName" class="form-label">Имя</label>
+                            <input type="text" id="FirstName" name="FirstName" class="form-control" required />
+                        </div>
+
+                        <div class="mb-3">
+                            <label for="LastName" class="form-label">Фамилия</label>
+                            <input type="text" id="LastName" name="LastName" class="form-control" required />
+                        </div>
+
+                        <div class="mb-3">
+                            <label for="Email" class="form-label">Email</label>
+                            <input type="email" id="Email" name="Email" class="form-control" required />
+                        </div>
+
+                        <div class="mb-3">
+                            <label for="PhoneNumber" class="form-label">Телефон</label>
+                            <input type="tel" id="PhoneNumber" name="PhoneNumber" class="form-control" />
+                        </div>
+
+                        <div class="mb-3">
+                            <label for="Password" class="form-label">Пароль</label>
+                            <input type="password" id="Password" name="Password" class="form-control" required />
+                        </div>
+
+                        <div class="d-grid">
+                            <button type="submit" class="btn btn-warning">Зарегистрироваться</button>
+                        </div>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
