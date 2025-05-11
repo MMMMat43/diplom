@@ -1,6 +1,75 @@
 ﻿@page
-@model IndexModel
+@model VKRvs.Pages.IndexModel
 @{
-    ViewData["Title"] = "Home page";
+    ViewData["Title"] = "Главная — Кафе";
 }
 
+<!-- Основной баннер -->
+<div class="container-fluid p-0">
+    <div class="position-relative">
+        <img src="/images/hero-banner.jpg" class="img-fluid w-100" style="max-height: 500px; object-fit: cover;" alt="Кафе баннер" />
+        <div class="position-absolute top-50 start-50 translate-middle text-white text-center">
+            <h1 class="display-4 fw-bold">Добро пожаловать в наше кафе!</h1>
+            <p class="lead">Вкус, который вы запомните.</p>
+            <a href="/Menu" class="btn btn-warning btn-lg mt-3">Перейти к меню</a>
+        </div>
+    </div>
+</div>
+
+<!-- Раздел с акциями -->
+<div class="container mt-5">
+    <h2 class="text-center mb-4">Акции и новинки</h2>
+    <div class="row g-4">
+        <div class="col-md-4">
+            <div class="card h-100">
+                <img src="/images/promo1.jpg" class="card-img-top" alt="Новинка">
+                <div class="card-body">
+                    <h5 class="card-title">Бургер дня</h5>
+                    <p class="card-text">Попробуй сочный бургер со скидкой 30% только сегодня!</p>
+                </div>
+            </div>
+        </div>
+        <div class="col-md-4">
+            <div class="card h-100">
+                <img src="/images/promo2.jpg" class="card-img-top" alt="Комбо">
+                <div class="card-body">
+                    <h5 class="card-title">Счастливые часы</h5>
+                    <p class="card-text">Каждый будний день с 12:00 до 15:00 — напиток в подарок!</p>
+                </div>
+            </div>
+        </div>
+        <div class="col-md-4">
+            <div class="card h-100">
+                <img src="/images/promo3.jpg" class="card-img-top" alt="Новинка">
+                <div class="card-body">
+                    <h5 class="card-title">Новые роллы</h5>
+                    <p class="card-text">Оцените новые куриные роллы с сыром и зеленью!</p>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<!-- Раздел о кафе -->
+<div class="bg-light py-5 mt-5">
+    <div class="container text-center">
+        <h2 class="mb-4">Почему выбирают нас?</h2>
+        <div class="row">
+            <div class="col-md-4">
+                <i class="bi bi-emoji-smile fs-1 text-warning"></i>
+                <h5 class="mt-2">Всегда свежие продукты</h5>
+                <p>Мы используем только натуральные и качественные ингредиенты.</p>
+            </div>
+            <div class="col-md-4">
+                <i class="bi bi-speedometer2 fs-1 text-warning"></i>
+                <h5 class="mt-2">Быстрое обслуживание</h5>
+                <p>Ваш заказ будет готов в течение 10 минут.</p>
+            </div>
+            <div class="col-md-4">
+                <i class="bi bi-star-fill fs-1 text-warning"></i>
+                <h5 class="mt-2">Высокий рейтинг</h5>
+                <p>Нас рекомендуют 95% довольных клиентов.</p>
+            </div>
+        </div>
+    </div>
+</div>

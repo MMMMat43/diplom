@@ -417,6 +417,100 @@
     "ReturnTypes": []
   },
   {
+    "ContainingType": "VKRvs.Controllers.IngredientController",
+    "Method": "GetIngredients",
+    "RelativePath": "api/ingredients",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[VKRvs.Models.Ingredient, VKRvs, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "VKRvs.Controllers.IngredientController",
+    "Method": "AddIngredient",
+    "RelativePath": "api/ingredients",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "ingredient",
+        "Type": "VKRvs.Models.Ingredient",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "VKRvs.Controllers.IngredientController",
+    "Method": "DeleteIngredient",
+    "RelativePath": "api/ingredients/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "VKRvs.Controllers.IngredientController",
+    "Method": "DecreaseQuantity",
+    "RelativePath": "api/ingredients/{id}/decrease",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "amount",
+        "Type": "System.Decimal",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "VKRvs.Controllers.IngredientController",
+    "Method": "IncreaseQuantity",
+    "RelativePath": "api/ingredients/{id}/increase",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "amount",
+        "Type": "System.Decimal",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
     "ContainingType": "VKRvs.Controllers.KitchenController",
     "Method": "UpdateItemStatus",
     "RelativePath": "api/kitchen/orderitem/{id}/status",

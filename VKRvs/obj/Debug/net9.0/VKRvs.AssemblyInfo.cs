@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("VKRvs")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d4c217963a80321c4fb6aafc400d9d7e6b921026")]
 [assembly: System.Reflection.AssemblyProductAttribute("VKRvs")]
 [assembly: System.Reflection.AssemblyTitleAttribute("VKRvs")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

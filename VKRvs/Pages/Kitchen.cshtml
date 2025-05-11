@@ -1,28 +1,103 @@
 ﻿@page
 @model VKRvs.Pages.KitchenModel
+@using VKRvs.Models
+@addTagHelper *, Microsoft.AspNetCore.Mvc.TagHelpers
 
-<h2>Заказы на кухне</h2>
+<h2>Панель кухни</h2>
 
-@foreach (var order in Model.Orders)
-{
-    <div style="border: 1px solid #ccc; padding: 10px; margin: 10px;">
-        <h4>Заказ #@order.Id — @order.OrderDate?.ToString("g")</h4>
-        <ul>
-            @foreach (var item in order.Orderitems)
-            {
-                <li>
-                    <strong>@item.Menuitem?.Name</strong> — Кол-во: @item.Quantity — Статус: @item.Status
-                    <form method="post" asp-page-handler="UpdateStatus">
-                        <input type="hidden" name="itemId" value="@item.Id" />
-                        <select name="newStatus">
-                            <option value="Готовится">Готовится</option>
-                            <option value="Готово">Готово</option>
-                            <option value="Отменено">Отменено</option>
-                        </select>
-                        <button type="submit">Обновить</button>
-                    </form>
-                </li>
-            }
-        </ul>
+<ul class="nav nav-tabs mb-3" id="kitchenTabs">
+    <li class="nav-item">
+        <a class="nav-link active" data-bs-toggle="tab" href="#orders">Заказы</a>
+    </li>
+    <li class="nav-item">
+        <a class="nav-link" data-bs-toggle="tab" href="#ingredients">Ингредиенты</a>
+    </li>
+</ul>
+
+<div class="tab-content">
+    <!-- Заказы -->
+    <div class="tab-pane fade show active" id="orders">
+        @foreach (var order in Model.Orders)
+        {
+            <div style="border: 1px solid #ccc; padding: 10px; margin: 10px;">
+                <h4>Заказ #@order.Id — @order.OrderDate?.ToString("g")</h4>
+                <ul>
+                    @foreach (var item in order.Orderitems)
+                    {
+                        <li>
+                            <strong>@item.Menuitem?.Name</strong> — Кол-во: @item.Quantity — Статус: @item.Status
+                            <form method="post" asp-page-handler="UpdateStatus">
+                                <input type="hidden" name="itemId" value="@item.Id" />
+                                <select name="newStatus">
+                                    <option value="Готовится">Готовится</option>
+                                    <option value="Готово">Готово</option>
+                                    <option value="Отменено">Отменено</option>
+                                </select>
+                                <button type="submit">Обновить</button>
+                            </form>
+                        </li>
+                    }
+                </ul>
+            </div>
+        }
     </div>
-}
+
+    <!-- Ингредиенты -->
+    <div class="tab-pane fade" id="ingredients">
+        <h4>Добавить ингредиент</h4>
+        <form method="post" asp-page-handler="AddIngredient" class="mb-3">
+            <div class="row g-2">
+                <div class="col">
+                    <input name="Name" class="form-control" placeholder="Название" required />
+                </div>
+                <div class="col">
+                    <input name="Unit" class="form-control" placeholder="Ед. изм." required />
+                </div>
+                <div class="col">
+                    <input type="number" name="Quantity" class="form-control" step="0.01" placeholder="Кол-во" required />
+                </div>
+                <div class="col-auto">
+                    <button type="submit" class="btn btn-success">Добавить</button>
+                </div>
+            </div>
+        </form>
+
+        <h4>Список ингредиентов</h4>
+        <table class="table table-bordered">
+            <thead>
+                <tr>
+                    <th>Название</th>
+                    <th>Количество</th>
+                    <th>Ед. изм.</th>
+                    <th>Действия</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var ing in Model.Ingredients)
+                {
+                    <tr>
+                        <td>@ing.Name</td>
+                        <td>@ing.QuantityInStock</td>
+                        <td>@ing.Unit</td>
+                        <td>
+                            <form method="post" asp-page-handler="Increase" class="d-inline">
+                                <input type="hidden" name="Id" value="@ing.Id" />
+                                <input type="number" name="Amount" step="0.1" class="form-control d-inline" style="width: 80px;" />
+                                <button class="btn btn-sm btn-outline-success">+</button>
+                            </form>
+                            <form method="post" asp-page-handler="Decrease" class="d-inline">
+                                <input type="hidden" name="Id" value="@ing.Id" />
+                                <input type="number" name="Amount" step="0.1" class="form-control d-inline" style="width: 80px;" />
+                                <button class="btn btn-sm btn-outline-warning">−</button>
+                            </form>
+                            <form method="post" asp-page-handler="DeleteIngredient" class="d-inline">
+                                <input type="hidden" name="Id" value="@ing.Id" />
+                                <button class="btn btn-sm btn-danger">Удалить</button>
+                            </form>
+                        </td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    </div>
+</div>

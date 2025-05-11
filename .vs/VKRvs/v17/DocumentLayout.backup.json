@@ -1,209 +1,215 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\PC\\Desktop\\VKRvs\\",
+  "WorkspaceRootPath": "C:\\Program Files\\Git\\bin\\diplom\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{FC2281AE-3E9B-4732-B3FF-E2327DB82542}|VKRvs\\VKRvs.csproj|c:\\users\\pc\\desktop\\vkrvs\\vkrvs\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{FC2281AE-3E9B-4732-B3FF-E2327DB82542}|VKRvs\\VKRvs.csproj|solutionrelative:vkrvs\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{FC2281AE-3E9B-4732-B3FF-E2327DB82542}|VKRvs\\VKRvs.csproj|c:\\program files\\git\\bin\\diplom\\vkrvs\\pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC2281AE-3E9B-4732-B3FF-E2327DB82542}|VKRvs\\VKRvs.csproj|solutionrelative:vkrvs\\pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FC2281AE-3E9B-4732-B3FF-E2327DB82542}|VKRvs\\VKRvs.csproj|c:\\users\\pc\\desktop\\vkrvs\\vkrvs\\pages\\menu.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{FC2281AE-3E9B-4732-B3FF-E2327DB82542}|VKRvs\\VKRvs.csproj|solutionrelative:vkrvs\\pages\\menu.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FC2281AE-3E9B-4732-B3FF-E2327DB82542}|VKRvs\\VKRvs.csproj|c:\\users\\pc\\desktop\\vkrvs\\vkrvs\\controllers\\menucontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FC2281AE-3E9B-4732-B3FF-E2327DB82542}|VKRvs\\VKRvs.csproj|solutionrelative:vkrvs\\controllers\\menucontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FC2281AE-3E9B-4732-B3FF-E2327DB82542}|VKRvs\\VKRvs.csproj|c:\\users\\pc\\desktop\\vkrvs\\vkrvs\\pages\\myorders.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{FC2281AE-3E9B-4732-B3FF-E2327DB82542}|VKRvs\\VKRvs.csproj|solutionrelative:vkrvs\\pages\\myorders.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FC2281AE-3E9B-4732-B3FF-E2327DB82542}|VKRvs\\VKRvs.csproj|c:\\users\\pc\\desktop\\vkrvs\\vkrvs\\pages\\cart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{FC2281AE-3E9B-4732-B3FF-E2327DB82542}|VKRvs\\VKRvs.csproj|solutionrelative:vkrvs\\pages\\cart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FC2281AE-3E9B-4732-B3FF-E2327DB82542}|VKRvs\\VKRvs.csproj|c:\\users\\pc\\desktop\\vkrvs\\vkrvs\\pages\\writereview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{FC2281AE-3E9B-4732-B3FF-E2327DB82542}|VKRvs\\VKRvs.csproj|solutionrelative:vkrvs\\pages\\writereview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FC2281AE-3E9B-4732-B3FF-E2327DB82542}|VKRvs\\VKRvs.csproj|c:\\users\\pc\\desktop\\vkrvs\\vkrvs\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FC2281AE-3E9B-4732-B3FF-E2327DB82542}|VKRvs\\VKRvs.csproj|solutionrelative:vkrvs\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FC2281AE-3E9B-4732-B3FF-E2327DB82542}|VKRvs\\VKRvs.csproj|c:\\users\\pc\\desktop\\vkrvs\\vkrvs\\pages\\writereview.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FC2281AE-3E9B-4732-B3FF-E2327DB82542}|VKRvs\\VKRvs.csproj|solutionrelative:vkrvs\\pages\\writereview.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FC2281AE-3E9B-4732-B3FF-E2327DB82542}|VKRvs\\VKRvs.csproj|c:\\users\\pc\\desktop\\vkrvs\\vkrvs\\models\\menuitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FC2281AE-3E9B-4732-B3FF-E2327DB82542}|VKRvs\\VKRvs.csproj|solutionrelative:vkrvs\\models\\menuitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FC2281AE-3E9B-4732-B3FF-E2327DB82542}|VKRvs\\VKRvs.csproj|c:\\users\\pc\\desktop\\vkrvs\\vkrvs\\models\\review.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FC2281AE-3E9B-4732-B3FF-E2327DB82542}|VKRvs\\VKRvs.csproj|solutionrelative:vkrvs\\models\\review.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FC2281AE-3E9B-4732-B3FF-E2327DB82542}|VKRvs\\VKRvs.csproj|c:\\users\\pc\\desktop\\vkrvs\\vkrvs\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{FC2281AE-3E9B-4732-B3FF-E2327DB82542}|VKRvs\\VKRvs.csproj|solutionrelative:vkrvs\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FC2281AE-3E9B-4732-B3FF-E2327DB82542}|VKRvs\\VKRvs.csproj|c:\\users\\pc\\desktop\\vkrvs\\vkrvs\\pages\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{FC2281AE-3E9B-4732-B3FF-E2327DB82542}|VKRvs\\VKRvs.csproj|solutionrelative:vkrvs\\pages\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FC2281AE-3E9B-4732-B3FF-E2327DB82542}|VKRvs\\VKRvs.csproj|c:\\users\\pc\\desktop\\vkrvs\\vkrvs\\pages\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{FC2281AE-3E9B-4732-B3FF-E2327DB82542}|VKRvs\\VKRvs.csproj|solutionrelative:vkrvs\\pages\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FC2281AE-3E9B-4732-B3FF-E2327DB82542}|VKRvs\\VKRvs.csproj|c:\\users\\pc\\desktop\\vkrvs\\vkrvs\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{FC2281AE-3E9B-4732-B3FF-E2327DB82542}|VKRvs\\VKRvs.csproj|solutionrelative:vkrvs\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FC2281AE-3E9B-4732-B3FF-E2327DB82542}|VKRvs\\VKRvs.csproj|c:\\users\\pc\\desktop\\vkrvs\\vkrvs\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FC2281AE-3E9B-4732-B3FF-E2327DB82542}|VKRvs\\VKRvs.csproj|solutionrelative:vkrvs\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FC2281AE-3E9B-4732-B3FF-E2327DB82542}|VKRvs\\VKRvs.csproj|c:\\users\\pc\\desktop\\vkrvs\\vkrvs\\pages\\menu.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FC2281AE-3E9B-4732-B3FF-E2327DB82542}|VKRvs\\VKRvs.csproj|solutionrelative:vkrvs\\pages\\menu.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FC2281AE-3E9B-4732-B3FF-E2327DB82542}|VKRvs\\VKRvs.csproj|c:\\users\\pc\\desktop\\vkrvs\\vkrvs\\pages\\myorders.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FC2281AE-3E9B-4732-B3FF-E2327DB82542}|VKRvs\\VKRvs.csproj|solutionrelative:vkrvs\\pages\\myorders.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FC2281AE-3E9B-4732-B3FF-E2327DB82542}|VKRvs\\VKRvs.csproj|c:\\users\\pc\\desktop\\vkrvs\\vkrvs\\pages\\cart.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FC2281AE-3E9B-4732-B3FF-E2327DB82542}|VKRvs\\VKRvs.csproj|solutionrelative:vkrvs\\pages\\cart.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FC2281AE-3E9B-4732-B3FF-E2327DB82542}|VKRvs\\VKRvs.csproj|c:\\users\\pc\\desktop\\vkrvs\\vkrvs\\controllers\\kitchencontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FC2281AE-3E9B-4732-B3FF-E2327DB82542}|VKRvs\\VKRvs.csproj|solutionrelative:vkrvs\\controllers\\kitchencontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FC2281AE-3E9B-4732-B3FF-E2327DB82542}|VKRvs\\VKRvs.csproj|c:\\users\\pc\\desktop\\vkrvs\\vkrvs\\pages\\kitchen.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FC2281AE-3E9B-4732-B3FF-E2327DB82542}|VKRvs\\VKRvs.csproj|solutionrelative:vkrvs\\pages\\kitchen.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FC2281AE-3E9B-4732-B3FF-E2327DB82542}|VKRvs\\VKRvs.csproj|c:\\users\\pc\\desktop\\vkrvs\\vkrvs\\pages\\kitchen.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{FC2281AE-3E9B-4732-B3FF-E2327DB82542}|VKRvs\\VKRvs.csproj|solutionrelative:vkrvs\\pages\\kitchen.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FC2281AE-3E9B-4732-B3FF-E2327DB82542}|VKRvs\\VKRvs.csproj|c:\\users\\pc\\desktop\\vkrvs\\vkrvs\\models\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FC2281AE-3E9B-4732-B3FF-E2327DB82542}|VKRvs\\VKRvs.csproj|solutionrelative:vkrvs\\models\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FC2281AE-3E9B-4732-B3FF-E2327DB82542}|VKRvs\\VKRvs.csproj|c:\\users\\pc\\desktop\\vkrvs\\vkrvs\\models\\vkrcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FC2281AE-3E9B-4732-B3FF-E2327DB82542}|VKRvs\\VKRvs.csproj|solutionrelative:vkrvs\\models\\vkrcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FC2281AE-3E9B-4732-B3FF-E2327DB82542}|VKRvs\\VKRvs.csproj|c:\\users\\pc\\desktop\\vkrvs\\vkrvs\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FC2281AE-3E9B-4732-B3FF-E2327DB82542}|VKRvs\\VKRvs.csproj|solutionrelative:vkrvs\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FC2281AE-3E9B-4732-B3FF-E2327DB82542}|VKRvs\\VKRvs.csproj|c:\\users\\pc\\desktop\\vkrvs\\vkrvs\\controllers\\adminpanelcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FC2281AE-3E9B-4732-B3FF-E2327DB82542}|VKRvs\\VKRvs.csproj|solutionrelative:vkrvs\\controllers\\adminpanelcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FC2281AE-3E9B-4732-B3FF-E2327DB82542}|VKRvs\\VKRvs.csproj|c:\\users\\pc\\desktop\\vkrvs\\vkrvs\\models\\loyaltytransaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FC2281AE-3E9B-4732-B3FF-E2327DB82542}|VKRvs\\VKRvs.csproj|solutionrelative:vkrvs\\models\\loyaltytransaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FC2281AE-3E9B-4732-B3FF-E2327DB82542}|VKRvs\\VKRvs.csproj|c:\\users\\pc\\desktop\\vkrvs\\vkrvs\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FC2281AE-3E9B-4732-B3FF-E2327DB82542}|VKRvs\\VKRvs.csproj|solutionrelative:vkrvs\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FC2281AE-3E9B-4732-B3FF-E2327DB82542}|VKRvs\\VKRvs.csproj|c:\\users\\pc\\desktop\\vkrvs\\vkrvs\\pages\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FC2281AE-3E9B-4732-B3FF-E2327DB82542}|VKRvs\\VKRvs.csproj|solutionrelative:vkrvs\\pages\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FC2281AE-3E9B-4732-B3FF-E2327DB82542}|VKRvs\\VKRvs.csproj|c:\\users\\pc\\desktop\\vkrvs\\vkrvs\\dto\\customerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FC2281AE-3E9B-4732-B3FF-E2327DB82542}|VKRvs\\VKRvs.csproj|solutionrelative:vkrvs\\dto\\customerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FC2281AE-3E9B-4732-B3FF-E2327DB82542}|VKRvs\\VKRvs.csproj|c:\\users\\pc\\desktop\\vkrvs\\vkrvs\\pages\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{FC2281AE-3E9B-4732-B3FF-E2327DB82542}|VKRvs\\VKRvs.csproj|solutionrelative:vkrvs\\pages\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FC2281AE-3E9B-4732-B3FF-E2327DB82542}|VKRvs\\VKRvs.csproj|c:\\users\\pc\\desktop\\vkrvs\\vkrvs\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FC2281AE-3E9B-4732-B3FF-E2327DB82542}|VKRvs\\VKRvs.csproj|solutionrelative:vkrvs\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FC2281AE-3E9B-4732-B3FF-E2327DB82542}|VKRvs\\VKRvs.csproj|c:\\users\\pc\\desktop\\vkrvs\\vkrvs\\models\\reservation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FC2281AE-3E9B-4732-B3FF-E2327DB82542}|VKRvs\\VKRvs.csproj|solutionrelative:vkrvs\\models\\reservation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FC2281AE-3E9B-4732-B3FF-E2327DB82542}|VKRvs\\VKRvs.csproj|c:\\users\\pc\\desktop\\vkrvs\\vkrvs\\pages\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{FC2281AE-3E9B-4732-B3FF-E2327DB82542}|VKRvs\\VKRvs.csproj|solutionrelative:vkrvs\\pages\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FC2281AE-3E9B-4732-B3FF-E2327DB82542}|VKRvs\\VKRvs.csproj|c:\\users\\pc\\desktop\\vkrvs\\vkrvs\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{FC2281AE-3E9B-4732-B3FF-E2327DB82542}|VKRvs\\VKRvs.csproj|c:\\program files\\git\\bin\\diplom\\vkrvs\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{FC2281AE-3E9B-4732-B3FF-E2327DB82542}|VKRvs\\VKRvs.csproj|solutionrelative:vkrvs\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FC2281AE-3E9B-4732-B3FF-E2327DB82542}|VKRvs\\VKRvs.csproj|c:\\users\\pc\\desktop\\vkrvs\\vkrvs\\dto\\registrationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FC2281AE-3E9B-4732-B3FF-E2327DB82542}|VKRvs\\VKRvs.csproj|solutionrelative:vkrvs\\dto\\registrationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FC2281AE-3E9B-4732-B3FF-E2327DB82542}|VKRvs\\VKRvs.csproj|c:\\program files\\git\\bin\\diplom\\vkrvs\\pages\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FC2281AE-3E9B-4732-B3FF-E2327DB82542}|VKRvs\\VKRvs.csproj|solutionrelative:vkrvs\\pages\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FC2281AE-3E9B-4732-B3FF-E2327DB82542}|VKRvs\\VKRvs.csproj|c:\\users\\pc\\desktop\\vkrvs\\vkrvs\\models\\payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FC2281AE-3E9B-4732-B3FF-E2327DB82542}|VKRvs\\VKRvs.csproj|solutionrelative:vkrvs\\models\\payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FC2281AE-3E9B-4732-B3FF-E2327DB82542}|VKRvs\\VKRvs.csproj|c:\\program files\\git\\bin\\diplom\\vkrvs\\pages\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FC2281AE-3E9B-4732-B3FF-E2327DB82542}|VKRvs\\VKRvs.csproj|solutionrelative:vkrvs\\pages\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FC2281AE-3E9B-4732-B3FF-E2327DB82542}|VKRvs\\VKRvs.csproj|c:\\users\\pc\\desktop\\vkrvs\\vkrvs\\models\\menuitemingredient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FC2281AE-3E9B-4732-B3FF-E2327DB82542}|VKRvs\\VKRvs.csproj|solutionrelative:vkrvs\\models\\menuitemingredient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FC2281AE-3E9B-4732-B3FF-E2327DB82542}|VKRvs\\VKRvs.csproj|c:\\program files\\git\\bin\\diplom\\vkrvs\\pages\\kitchen.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FC2281AE-3E9B-4732-B3FF-E2327DB82542}|VKRvs\\VKRvs.csproj|solutionrelative:vkrvs\\pages\\kitchen.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FC2281AE-3E9B-4732-B3FF-E2327DB82542}|VKRvs\\VKRvs.csproj|c:\\users\\pc\\desktop\\vkrvs\\vkrvs\\models\\ingredient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{FC2281AE-3E9B-4732-B3FF-E2327DB82542}|VKRvs\\VKRvs.csproj|c:\\program files\\git\\bin\\diplom\\vkrvs\\pages\\kitchen.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC2281AE-3E9B-4732-B3FF-E2327DB82542}|VKRvs\\VKRvs.csproj|solutionrelative:vkrvs\\pages\\kitchen.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC2281AE-3E9B-4732-B3FF-E2327DB82542}|VKRvs\\VKRvs.csproj|c:\\program files\\git\\bin\\diplom\\vkrvs\\controllers\\ingredientscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC2281AE-3E9B-4732-B3FF-E2327DB82542}|VKRvs\\VKRvs.csproj|solutionrelative:vkrvs\\controllers\\ingredientscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC2281AE-3E9B-4732-B3FF-E2327DB82542}|VKRvs\\VKRvs.csproj|c:\\program files\\git\\bin\\diplom\\vkrvs\\models\\ingredient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FC2281AE-3E9B-4732-B3FF-E2327DB82542}|VKRvs\\VKRvs.csproj|solutionrelative:vkrvs\\models\\ingredient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FC2281AE-3E9B-4732-B3FF-E2327DB82542}|VKRvs\\VKRvs.csproj|c:\\users\\pc\\desktop\\vkrvs\\vkrvs\\pages\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{FC2281AE-3E9B-4732-B3FF-E2327DB82542}|VKRvs\\VKRvs.csproj|c:\\program files\\git\\bin\\diplom\\vkrvs\\controllers\\adminpanelcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC2281AE-3E9B-4732-B3FF-E2327DB82542}|VKRvs\\VKRvs.csproj|solutionrelative:vkrvs\\controllers\\adminpanelcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC2281AE-3E9B-4732-B3FF-E2327DB82542}|VKRvs\\VKRvs.csproj|c:\\program files\\git\\bin\\diplom\\vkrvs\\models\\vkrcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC2281AE-3E9B-4732-B3FF-E2327DB82542}|VKRvs\\VKRvs.csproj|solutionrelative:vkrvs\\models\\vkrcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC2281AE-3E9B-4732-B3FF-E2327DB82542}|VKRvs\\VKRvs.csproj|c:\\program files\\git\\bin\\diplom\\vkrvs\\models\\menuitemingredient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC2281AE-3E9B-4732-B3FF-E2327DB82542}|VKRvs\\VKRvs.csproj|solutionrelative:vkrvs\\models\\menuitemingredient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC2281AE-3E9B-4732-B3FF-E2327DB82542}|VKRvs\\VKRvs.csproj|c:\\program files\\git\\bin\\diplom\\vkrvs\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC2281AE-3E9B-4732-B3FF-E2327DB82542}|VKRvs\\VKRvs.csproj|solutionrelative:vkrvs\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC2281AE-3E9B-4732-B3FF-E2327DB82542}|VKRvs\\VKRvs.csproj|c:\\program files\\git\\bin\\diplom\\vkrvs\\models\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC2281AE-3E9B-4732-B3FF-E2327DB82542}|VKRvs\\VKRvs.csproj|solutionrelative:vkrvs\\models\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC2281AE-3E9B-4732-B3FF-E2327DB82542}|VKRvs\\VKRvs.csproj|c:\\program files\\git\\bin\\diplom\\vkrvs\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FC2281AE-3E9B-4732-B3FF-E2327DB82542}|VKRvs\\VKRvs.csproj|solutionrelative:vkrvs\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC2281AE-3E9B-4732-B3FF-E2327DB82542}|VKRvs\\VKRvs.csproj|c:\\program files\\git\\bin\\diplom\\vkrvs\\pages\\menu.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FC2281AE-3E9B-4732-B3FF-E2327DB82542}|VKRvs\\VKRvs.csproj|solutionrelative:vkrvs\\pages\\menu.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC2281AE-3E9B-4732-B3FF-E2327DB82542}|VKRvs\\VKRvs.csproj|c:\\program files\\git\\bin\\diplom\\vkrvs\\controllers\\menucontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC2281AE-3E9B-4732-B3FF-E2327DB82542}|VKRvs\\VKRvs.csproj|solutionrelative:vkrvs\\controllers\\menucontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC2281AE-3E9B-4732-B3FF-E2327DB82542}|VKRvs\\VKRvs.csproj|c:\\program files\\git\\bin\\diplom\\vkrvs\\pages\\myorders.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FC2281AE-3E9B-4732-B3FF-E2327DB82542}|VKRvs\\VKRvs.csproj|solutionrelative:vkrvs\\pages\\myorders.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC2281AE-3E9B-4732-B3FF-E2327DB82542}|VKRvs\\VKRvs.csproj|c:\\program files\\git\\bin\\diplom\\vkrvs\\pages\\cart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FC2281AE-3E9B-4732-B3FF-E2327DB82542}|VKRvs\\VKRvs.csproj|solutionrelative:vkrvs\\pages\\cart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC2281AE-3E9B-4732-B3FF-E2327DB82542}|VKRvs\\VKRvs.csproj|c:\\program files\\git\\bin\\diplom\\vkrvs\\pages\\writereview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FC2281AE-3E9B-4732-B3FF-E2327DB82542}|VKRvs\\VKRvs.csproj|solutionrelative:vkrvs\\pages\\writereview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC2281AE-3E9B-4732-B3FF-E2327DB82542}|VKRvs\\VKRvs.csproj|c:\\program files\\git\\bin\\diplom\\vkrvs\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC2281AE-3E9B-4732-B3FF-E2327DB82542}|VKRvs\\VKRvs.csproj|solutionrelative:vkrvs\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC2281AE-3E9B-4732-B3FF-E2327DB82542}|VKRvs\\VKRvs.csproj|c:\\program files\\git\\bin\\diplom\\vkrvs\\pages\\writereview.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC2281AE-3E9B-4732-B3FF-E2327DB82542}|VKRvs\\VKRvs.csproj|solutionrelative:vkrvs\\pages\\writereview.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC2281AE-3E9B-4732-B3FF-E2327DB82542}|VKRvs\\VKRvs.csproj|c:\\program files\\git\\bin\\diplom\\vkrvs\\models\\menuitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC2281AE-3E9B-4732-B3FF-E2327DB82542}|VKRvs\\VKRvs.csproj|solutionrelative:vkrvs\\models\\menuitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC2281AE-3E9B-4732-B3FF-E2327DB82542}|VKRvs\\VKRvs.csproj|c:\\program files\\git\\bin\\diplom\\vkrvs\\models\\review.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC2281AE-3E9B-4732-B3FF-E2327DB82542}|VKRvs\\VKRvs.csproj|solutionrelative:vkrvs\\models\\review.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC2281AE-3E9B-4732-B3FF-E2327DB82542}|VKRvs\\VKRvs.csproj|c:\\program files\\git\\bin\\diplom\\vkrvs\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{FC2281AE-3E9B-4732-B3FF-E2327DB82542}|VKRvs\\VKRvs.csproj|solutionrelative:vkrvs\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC2281AE-3E9B-4732-B3FF-E2327DB82542}|VKRvs\\VKRvs.csproj|c:\\program files\\git\\bin\\diplom\\vkrvs\\pages\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FC2281AE-3E9B-4732-B3FF-E2327DB82542}|VKRvs\\VKRvs.csproj|solutionrelative:vkrvs\\pages\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC2281AE-3E9B-4732-B3FF-E2327DB82542}|VKRvs\\VKRvs.csproj|c:\\program files\\git\\bin\\diplom\\vkrvs\\pages\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FC2281AE-3E9B-4732-B3FF-E2327DB82542}|VKRvs\\VKRvs.csproj|solutionrelative:vkrvs\\pages\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC2281AE-3E9B-4732-B3FF-E2327DB82542}|VKRvs\\VKRvs.csproj|c:\\program files\\git\\bin\\diplom\\vkrvs\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{FC2281AE-3E9B-4732-B3FF-E2327DB82542}|VKRvs\\VKRvs.csproj|solutionrelative:vkrvs\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC2281AE-3E9B-4732-B3FF-E2327DB82542}|VKRvs\\VKRvs.csproj|c:\\program files\\git\\bin\\diplom\\vkrvs\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC2281AE-3E9B-4732-B3FF-E2327DB82542}|VKRvs\\VKRvs.csproj|solutionrelative:vkrvs\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC2281AE-3E9B-4732-B3FF-E2327DB82542}|VKRvs\\VKRvs.csproj|c:\\program files\\git\\bin\\diplom\\vkrvs\\pages\\menu.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC2281AE-3E9B-4732-B3FF-E2327DB82542}|VKRvs\\VKRvs.csproj|solutionrelative:vkrvs\\pages\\menu.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC2281AE-3E9B-4732-B3FF-E2327DB82542}|VKRvs\\VKRvs.csproj|c:\\program files\\git\\bin\\diplom\\vkrvs\\pages\\myorders.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC2281AE-3E9B-4732-B3FF-E2327DB82542}|VKRvs\\VKRvs.csproj|solutionrelative:vkrvs\\pages\\myorders.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC2281AE-3E9B-4732-B3FF-E2327DB82542}|VKRvs\\VKRvs.csproj|c:\\program files\\git\\bin\\diplom\\vkrvs\\pages\\cart.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC2281AE-3E9B-4732-B3FF-E2327DB82542}|VKRvs\\VKRvs.csproj|solutionrelative:vkrvs\\pages\\cart.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC2281AE-3E9B-4732-B3FF-E2327DB82542}|VKRvs\\VKRvs.csproj|c:\\program files\\git\\bin\\diplom\\vkrvs\\controllers\\kitchencontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC2281AE-3E9B-4732-B3FF-E2327DB82542}|VKRvs\\VKRvs.csproj|solutionrelative:vkrvs\\controllers\\kitchencontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC2281AE-3E9B-4732-B3FF-E2327DB82542}|VKRvs\\VKRvs.csproj|c:\\program files\\git\\bin\\diplom\\vkrvs\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC2281AE-3E9B-4732-B3FF-E2327DB82542}|VKRvs\\VKRvs.csproj|solutionrelative:vkrvs\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC2281AE-3E9B-4732-B3FF-E2327DB82542}|VKRvs\\VKRvs.csproj|c:\\program files\\git\\bin\\diplom\\vkrvs\\models\\loyaltytransaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC2281AE-3E9B-4732-B3FF-E2327DB82542}|VKRvs\\VKRvs.csproj|solutionrelative:vkrvs\\models\\loyaltytransaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC2281AE-3E9B-4732-B3FF-E2327DB82542}|VKRvs\\VKRvs.csproj|c:\\program files\\git\\bin\\diplom\\vkrvs\\pages\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC2281AE-3E9B-4732-B3FF-E2327DB82542}|VKRvs\\VKRvs.csproj|solutionrelative:vkrvs\\pages\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC2281AE-3E9B-4732-B3FF-E2327DB82542}|VKRvs\\VKRvs.csproj|c:\\program files\\git\\bin\\diplom\\vkrvs\\dto\\customerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC2281AE-3E9B-4732-B3FF-E2327DB82542}|VKRvs\\VKRvs.csproj|solutionrelative:vkrvs\\dto\\customerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC2281AE-3E9B-4732-B3FF-E2327DB82542}|VKRvs\\VKRvs.csproj|c:\\program files\\git\\bin\\diplom\\vkrvs\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC2281AE-3E9B-4732-B3FF-E2327DB82542}|VKRvs\\VKRvs.csproj|solutionrelative:vkrvs\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC2281AE-3E9B-4732-B3FF-E2327DB82542}|VKRvs\\VKRvs.csproj|c:\\program files\\git\\bin\\diplom\\vkrvs\\models\\reservation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC2281AE-3E9B-4732-B3FF-E2327DB82542}|VKRvs\\VKRvs.csproj|solutionrelative:vkrvs\\models\\reservation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC2281AE-3E9B-4732-B3FF-E2327DB82542}|VKRvs\\VKRvs.csproj|c:\\program files\\git\\bin\\diplom\\vkrvs\\dto\\registrationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC2281AE-3E9B-4732-B3FF-E2327DB82542}|VKRvs\\VKRvs.csproj|solutionrelative:vkrvs\\dto\\registrationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC2281AE-3E9B-4732-B3FF-E2327DB82542}|VKRvs\\VKRvs.csproj|c:\\program files\\git\\bin\\diplom\\vkrvs\\models\\payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC2281AE-3E9B-4732-B3FF-E2327DB82542}|VKRvs\\VKRvs.csproj|solutionrelative:vkrvs\\models\\payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC2281AE-3E9B-4732-B3FF-E2327DB82542}|VKRvs\\VKRvs.csproj|c:\\program files\\git\\bin\\diplom\\vkrvs\\pages\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FC2281AE-3E9B-4732-B3FF-E2327DB82542}|VKRvs\\VKRvs.csproj|solutionrelative:vkrvs\\pages\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FC2281AE-3E9B-4732-B3FF-E2327DB82542}|VKRvs\\VKRvs.csproj|c:\\users\\pc\\desktop\\vkrvs\\vkrvs\\dto\\menuitemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{FC2281AE-3E9B-4732-B3FF-E2327DB82542}|VKRvs\\VKRvs.csproj|c:\\program files\\git\\bin\\diplom\\vkrvs\\dto\\menuitemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FC2281AE-3E9B-4732-B3FF-E2327DB82542}|VKRvs\\VKRvs.csproj|solutionrelative:vkrvs\\dto\\menuitemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FC2281AE-3E9B-4732-B3FF-E2327DB82542}|VKRvs\\VKRvs.csproj|c:\\users\\pc\\desktop\\vkrvs\\vkrvs\\mappers\\menuitemmapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{FC2281AE-3E9B-4732-B3FF-E2327DB82542}|VKRvs\\VKRvs.csproj|c:\\program files\\git\\bin\\diplom\\vkrvs\\mappers\\menuitemmapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FC2281AE-3E9B-4732-B3FF-E2327DB82542}|VKRvs\\VKRvs.csproj|solutionrelative:vkrvs\\mappers\\menuitemmapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FC2281AE-3E9B-4732-B3FF-E2327DB82542}|VKRvs\\VKRvs.csproj|c:\\users\\pc\\desktop\\vkrvs\\vkrvs\\dto\\cartitemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{FC2281AE-3E9B-4732-B3FF-E2327DB82542}|VKRvs\\VKRvs.csproj|c:\\program files\\git\\bin\\diplom\\vkrvs\\dto\\cartitemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FC2281AE-3E9B-4732-B3FF-E2327DB82542}|VKRvs\\VKRvs.csproj|solutionrelative:vkrvs\\dto\\cartitemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FC2281AE-3E9B-4732-B3FF-E2327DB82542}|VKRvs\\VKRvs.csproj|c:\\users\\pc\\desktop\\vkrvs\\vkrvs\\pages\\adminpanel.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{FC2281AE-3E9B-4732-B3FF-E2327DB82542}|VKRvs\\VKRvs.csproj|c:\\program files\\git\\bin\\diplom\\vkrvs\\pages\\adminpanel.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FC2281AE-3E9B-4732-B3FF-E2327DB82542}|VKRvs\\VKRvs.csproj|solutionrelative:vkrvs\\pages\\adminpanel.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FC2281AE-3E9B-4732-B3FF-E2327DB82542}|VKRvs\\VKRvs.csproj|c:\\users\\pc\\desktop\\vkrvs\\vkrvs\\pages\\adminpanel.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{FC2281AE-3E9B-4732-B3FF-E2327DB82542}|VKRvs\\VKRvs.csproj|c:\\program files\\git\\bin\\diplom\\vkrvs\\pages\\adminpanel.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{FC2281AE-3E9B-4732-B3FF-E2327DB82542}|VKRvs\\VKRvs.csproj|solutionrelative:vkrvs\\pages\\adminpanel.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FC2281AE-3E9B-4732-B3FF-E2327DB82542}|VKRvs\\VKRvs.csproj|c:\\users\\pc\\desktop\\vkrvs\\vkrvs\\pages\\adminlogin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{FC2281AE-3E9B-4732-B3FF-E2327DB82542}|VKRvs\\VKRvs.csproj|c:\\program files\\git\\bin\\diplom\\vkrvs\\pages\\adminlogin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{FC2281AE-3E9B-4732-B3FF-E2327DB82542}|VKRvs\\VKRvs.csproj|solutionrelative:vkrvs\\pages\\adminlogin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FC2281AE-3E9B-4732-B3FF-E2327DB82542}|VKRvs\\VKRvs.csproj|c:\\users\\pc\\desktop\\vkrvs\\vkrvs\\pages\\adminlogin.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{FC2281AE-3E9B-4732-B3FF-E2327DB82542}|VKRvs\\VKRvs.csproj|c:\\program files\\git\\bin\\diplom\\vkrvs\\pages\\adminlogin.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FC2281AE-3E9B-4732-B3FF-E2327DB82542}|VKRvs\\VKRvs.csproj|solutionrelative:vkrvs\\pages\\adminlogin.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\PC\\Desktop\\VKRvs\\VKRvs\\Pages\\Admin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:VKRvs\\Pages\\Admin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\PC\\Desktop\\VKRvs\\VKRvs\\Pages\\Admin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\PC\\Desktop\\VKRvs\\VKRvs\\Pages\\Admin.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:VKRvs\\Pages\\Admin.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\PC\\Desktop\\VKRvs\\VKRvs\\Pages\\Admin.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FC2281AE-3E9B-4732-B3FF-E2327DB82542}|VKRvs\\VKRvs.csproj|c:\\users\\pc\\desktop\\vkrvs\\vkrvs\\controllers\\reviewcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{FC2281AE-3E9B-4732-B3FF-E2327DB82542}|VKRvs\\VKRvs.csproj|c:\\program files\\git\\bin\\diplom\\vkrvs\\controllers\\reviewcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FC2281AE-3E9B-4732-B3FF-E2327DB82542}|VKRvs\\VKRvs.csproj|solutionrelative:vkrvs\\controllers\\reviewcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FC2281AE-3E9B-4732-B3FF-E2327DB82542}|VKRvs\\VKRvs.csproj|c:\\users\\pc\\desktop\\vkrvs\\vkrvs\\pages\\leavereview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{FC2281AE-3E9B-4732-B3FF-E2327DB82542}|VKRvs\\VKRvs.csproj|c:\\program files\\git\\bin\\diplom\\vkrvs\\pages\\leavereview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{FC2281AE-3E9B-4732-B3FF-E2327DB82542}|VKRvs\\VKRvs.csproj|solutionrelative:vkrvs\\pages\\leavereview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FC2281AE-3E9B-4732-B3FF-E2327DB82542}|VKRvs\\VKRvs.csproj|c:\\users\\pc\\desktop\\vkrvs\\vkrvs\\pages\\leavereview.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{FC2281AE-3E9B-4732-B3FF-E2327DB82542}|VKRvs\\VKRvs.csproj|c:\\program files\\git\\bin\\diplom\\vkrvs\\pages\\leavereview.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FC2281AE-3E9B-4732-B3FF-E2327DB82542}|VKRvs\\VKRvs.csproj|solutionrelative:vkrvs\\pages\\leavereview.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -214,55 +220,221 @@
       "DocumentGroups": [
         {
           "DockedWidth": 214,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "MenuController.cs",
-              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\VKRvs\\VKRvs\\Controllers\\MenuController.cs",
-              "RelativeDocumentMoniker": "VKRvs\\Controllers\\MenuController.cs",
-              "ToolTip": "C:\\Users\\PC\\Desktop\\VKRvs\\VKRvs\\Controllers\\MenuController.cs",
-              "RelativeToolTip": "VKRvs\\Controllers\\MenuController.cs",
-              "ViewState": "AgIAAD4AAAAAAAAAAAAUwFUAAAAMAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "C:\\Program Files\\Git\\bin\\diplom\\VKRvs\\Pages\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "VKRvs\\Pages\\Index.cshtml.cs",
+              "ToolTip": "C:\\Program Files\\Git\\bin\\diplom\\VKRvs\\Pages\\Index.cshtml.cs",
+              "RelativeToolTip": "VKRvs\\Pages\\Index.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-09T16:02:26.87Z",
+              "WhenOpened": "2025-05-07T20:00:09.039Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\VKRvs\\VKRvs\\appsettings.json",
-              "RelativeDocumentMoniker": "VKRvs\\appsettings.json",
-              "ToolTip": "C:\\Users\\PC\\Desktop\\VKRvs\\VKRvs\\appsettings.json",
-              "RelativeToolTip": "VKRvs\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-12-12T12:23:27.258Z"
+              "DocumentIndex": 5,
+              "Title": "Kitchen.cshtml.cs",
+              "DocumentMoniker": "C:\\Program Files\\Git\\bin\\diplom\\VKRvs\\Pages\\Kitchen.cshtml.cs",
+              "RelativeDocumentMoniker": "VKRvs\\Pages\\Kitchen.cshtml.cs",
+              "ToolTip": "C:\\Program Files\\Git\\bin\\diplom\\VKRvs\\Pages\\Kitchen.cshtml.cs",
+              "RelativeToolTip": "VKRvs\\Pages\\Kitchen.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADkAAABlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T14:29:44.445Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Program Files\\Git\\bin\\diplom\\VKRvs\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "VKRvs\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Program Files\\Git\\bin\\diplom\\VKRvs\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "VKRvs\\wwwroot\\css\\site.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-05-02T10:51:56.547Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Kitchen.cshtml",
+              "DocumentMoniker": "C:\\Program Files\\Git\\bin\\diplom\\VKRvs\\Pages\\Kitchen.cshtml",
+              "RelativeDocumentMoniker": "VKRvs\\Pages\\Kitchen.cshtml",
+              "ToolTip": "C:\\Program Files\\Git\\bin\\diplom\\VKRvs\\Pages\\Kitchen.cshtml",
+              "RelativeToolTip": "VKRvs\\Pages\\Kitchen.cshtml",
+              "ViewState": "AgIAADsAAAAAAAAAAAAIwFEAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-11T08:46:40.349Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "MenuitemIngredient.cs",
+              "DocumentMoniker": "C:\\Program Files\\Git\\bin\\diplom\\VKRvs\\Models\\MenuitemIngredient.cs",
+              "RelativeDocumentMoniker": "VKRvs\\Models\\MenuitemIngredient.cs",
+              "ToolTip": "C:\\Program Files\\Git\\bin\\diplom\\VKRvs\\Models\\MenuitemIngredient.cs",
+              "RelativeToolTip": "VKRvs\\Models\\MenuitemIngredient.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T16:29:40.07Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Orderitem.cs",
+              "DocumentMoniker": "C:\\Program Files\\Git\\bin\\diplom\\VKRvs\\Models\\Orderitem.cs",
+              "RelativeDocumentMoniker": "VKRvs\\Models\\Orderitem.cs",
+              "ToolTip": "C:\\Program Files\\Git\\bin\\diplom\\VKRvs\\Models\\Orderitem.cs",
+              "RelativeToolTip": "VKRvs\\Models\\Orderitem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T15:57:32.585Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 11,
-              "Title": "Register.cshtml",
-              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\VKRvs\\VKRvs\\Pages\\Register.cshtml",
-              "RelativeDocumentMoniker": "VKRvs\\Pages\\Register.cshtml",
-              "ToolTip": "C:\\Users\\PC\\Desktop\\VKRvs\\VKRvs\\Pages\\Register.cshtml",
-              "RelativeToolTip": "VKRvs\\Pages\\Register.cshtml",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAAC8AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-12T12:37:50.438Z",
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Program Files\\Git\\bin\\diplom\\VKRvs\\Models\\Order.cs",
+              "RelativeDocumentMoniker": "VKRvs\\Models\\Order.cs",
+              "ToolTip": "C:\\Program Files\\Git\\bin\\diplom\\VKRvs\\Models\\Order.cs",
+              "RelativeToolTip": "VKRvs\\Models\\Order.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T16:30:08.577Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 8,
+              "Title": "AdminPanelController.cs",
+              "DocumentMoniker": "C:\\Program Files\\Git\\bin\\diplom\\VKRvs\\Controllers\\AdminPanelController.cs",
+              "RelativeDocumentMoniker": "VKRvs\\Controllers\\AdminPanelController.cs",
+              "ToolTip": "C:\\Program Files\\Git\\bin\\diplom\\VKRvs\\Controllers\\AdminPanelController.cs",
+              "RelativeToolTip": "VKRvs\\Controllers\\AdminPanelController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T16:32:05.642Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Program Files\\Git\\bin\\diplom\\VKRvs\\Pages\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "VKRvs\\Pages\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Program Files\\Git\\bin\\diplom\\VKRvs\\Pages\\_ViewStart.cshtml",
+              "RelativeToolTip": "VKRvs\\Pages\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-15T19:29:51.932Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Program Files\\Git\\bin\\diplom\\VKRvs\\Pages\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "VKRvs\\Pages\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Program Files\\Git\\bin\\diplom\\VKRvs\\Pages\\_ViewImports.cshtml",
+              "RelativeToolTip": "VKRvs\\Pages\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-15T19:29:53.272Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Program Files\\Git\\bin\\diplom\\VKRvs\\Pages\\Index.cshtml",
+              "RelativeDocumentMoniker": "VKRvs\\Pages\\Index.cshtml",
+              "ToolTip": "C:\\Program Files\\Git\\bin\\diplom\\VKRvs\\Pages\\Index.cshtml",
+              "RelativeToolTip": "VKRvs\\Pages\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-15T19:29:20.774Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "MyOrders.cshtml",
+              "DocumentMoniker": "C:\\Program Files\\Git\\bin\\diplom\\VKRvs\\Pages\\MyOrders.cshtml",
+              "RelativeDocumentMoniker": "VKRvs\\Pages\\MyOrders.cshtml",
+              "ToolTip": "C:\\Program Files\\Git\\bin\\diplom\\VKRvs\\Pages\\MyOrders.cshtml",
+              "RelativeToolTip": "VKRvs\\Pages\\MyOrders.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-17T16:23:46.01Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Cart.cshtml",
+              "DocumentMoniker": "C:\\Program Files\\Git\\bin\\diplom\\VKRvs\\Pages\\Cart.cshtml",
+              "RelativeDocumentMoniker": "VKRvs\\Pages\\Cart.cshtml",
+              "ToolTip": "C:\\Program Files\\Git\\bin\\diplom\\VKRvs\\Pages\\Cart.cshtml",
+              "RelativeToolTip": "VKRvs\\Pages\\Cart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAE4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-09T20:11:59.711Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IngredientsController.cs",
+              "DocumentMoniker": "C:\\Program Files\\Git\\bin\\diplom\\VKRvs\\Controllers\\IngredientsController.cs",
+              "RelativeDocumentMoniker": "VKRvs\\Controllers\\IngredientsController.cs",
+              "ToolTip": "C:\\Program Files\\Git\\bin\\diplom\\VKRvs\\Controllers\\IngredientsController.cs",
+              "RelativeToolTip": "VKRvs\\Controllers\\IngredientsController.cs",
+              "ViewState": "AgIAABgAAABAMzMzMzM2wDsAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T23:09:12.508Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Ingredient.cs",
+              "DocumentMoniker": "C:\\Program Files\\Git\\bin\\diplom\\VKRvs\\Models\\Ingredient.cs",
+              "RelativeDocumentMoniker": "VKRvs\\Models\\Ingredient.cs",
+              "ToolTip": "C:\\Program Files\\Git\\bin\\diplom\\VKRvs\\Models\\Ingredient.cs",
+              "RelativeToolTip": "VKRvs\\Models\\Ingredient.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T13:58:04.498Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "CartController.cs",
+              "DocumentMoniker": "C:\\Program Files\\Git\\bin\\diplom\\VKRvs\\Controllers\\CartController.cs",
+              "RelativeDocumentMoniker": "VKRvs\\Controllers\\CartController.cs",
+              "ToolTip": "C:\\Program Files\\Git\\bin\\diplom\\VKRvs\\Controllers\\CartController.cs",
+              "RelativeToolTip": "VKRvs\\Controllers\\CartController.cs",
+              "ViewState": "AgIAADICAAAAAAAAAAAswFcCAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T20:10:06.03Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
               "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\VKRvs\\VKRvs\\Pages\\Shared\\_Layout.cshtml",
+              "DocumentMoniker": "C:\\Program Files\\Git\\bin\\diplom\\VKRvs\\Pages\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "VKRvs\\Pages\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\PC\\Desktop\\VKRvs\\VKRvs\\Pages\\Shared\\_Layout.cshtml*",
-              "RelativeToolTip": "VKRvs\\Pages\\Shared\\_Layout.cshtml*",
-              "ViewState": "AgIAAAoAAAAAAAAAAADwvyEAAAAUAAAAAAAAAA==",
+              "ToolTip": "C:\\Program Files\\Git\\bin\\diplom\\VKRvs\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "VKRvs\\Pages\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-01-15T19:29:56.335Z",
               "EditorCaption": ""
@@ -270,127 +442,119 @@
             {
               "$type": "Document",
               "DocumentIndex": 9,
-              "Title": "Review.cs",
-              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\VKRvs\\VKRvs\\Models\\Review.cs",
-              "RelativeDocumentMoniker": "VKRvs\\Models\\Review.cs",
-              "ToolTip": "C:\\Users\\PC\\Desktop\\VKRvs\\VKRvs\\Models\\Review.cs",
-              "RelativeToolTip": "VKRvs\\Models\\Review.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Title": "VkrContext.cs",
+              "DocumentMoniker": "C:\\Program Files\\Git\\bin\\diplom\\VKRvs\\Models\\VkrContext.cs",
+              "RelativeDocumentMoniker": "VKRvs\\Models\\VkrContext.cs",
+              "ToolTip": "C:\\Program Files\\Git\\bin\\diplom\\VKRvs\\Models\\VkrContext.cs",
+              "RelativeToolTip": "VKRvs\\Models\\VkrContext.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAADgvycAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-22T16:30:33.129Z",
+              "WhenOpened": "2024-12-09T15:55:59.23Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Menuitem.cs",
-              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\VKRvs\\VKRvs\\Models\\Menuitem.cs",
-              "RelativeDocumentMoniker": "VKRvs\\Models\\Menuitem.cs",
-              "ToolTip": "C:\\Users\\PC\\Desktop\\VKRvs\\VKRvs\\Models\\Menuitem.cs",
-              "RelativeToolTip": "VKRvs\\Models\\Menuitem.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAgwBwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-10T08:18:27.266Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 20,
               "Title": "WriteReview.cshtml.cs",
-              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\VKRvs\\VKRvs\\Pages\\WriteReview.cshtml.cs",
+              "DocumentMoniker": "C:\\Program Files\\Git\\bin\\diplom\\VKRvs\\Pages\\WriteReview.cshtml.cs",
               "RelativeDocumentMoniker": "VKRvs\\Pages\\WriteReview.cshtml.cs",
-              "ToolTip": "C:\\Users\\PC\\Desktop\\VKRvs\\VKRvs\\Pages\\WriteReview.cshtml.cs",
+              "ToolTip": "C:\\Program Files\\Git\\bin\\diplom\\VKRvs\\Pages\\WriteReview.cshtml.cs",
               "RelativeToolTip": "VKRvs\\Pages\\WriteReview.cshtml.cs",
               "ViewState": "AgIAABAAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-27T09:20:25.121Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-27T09:20:25.121Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "CartController.cs",
-              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\VKRvs\\VKRvs\\Controllers\\CartController.cs",
-              "RelativeDocumentMoniker": "VKRvs\\Controllers\\CartController.cs",
-              "ToolTip": "C:\\Users\\PC\\Desktop\\VKRvs\\VKRvs\\Controllers\\CartController.cs",
-              "RelativeToolTip": "VKRvs\\Controllers\\CartController.cs",
-              "ViewState": "AgIAADICAAAAAAAAAAAswFcCAAAAAAAAAAAAAA==",
+              "DocumentIndex": 21,
+              "Title": "Menuitem.cs",
+              "DocumentMoniker": "C:\\Program Files\\Git\\bin\\diplom\\VKRvs\\Models\\Menuitem.cs",
+              "RelativeDocumentMoniker": "VKRvs\\Models\\Menuitem.cs",
+              "ToolTip": "C:\\Program Files\\Git\\bin\\diplom\\VKRvs\\Models\\Menuitem.cs",
+              "RelativeToolTip": "VKRvs\\Models\\Menuitem.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAgwBwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-09T20:10:06.03Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-10T08:18:27.266Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Cart.cshtml",
-              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\VKRvs\\VKRvs\\Pages\\Cart.cshtml",
-              "RelativeDocumentMoniker": "VKRvs\\Pages\\Cart.cshtml",
-              "ToolTip": "C:\\Users\\PC\\Desktop\\VKRvs\\VKRvs\\Pages\\Cart.cshtml",
-              "RelativeToolTip": "VKRvs\\Pages\\Cart.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAE4AAAAAAAAAAAAAAA==",
+              "DocumentIndex": 22,
+              "Title": "Review.cs",
+              "DocumentMoniker": "C:\\Program Files\\Git\\bin\\diplom\\VKRvs\\Models\\Review.cs",
+              "RelativeDocumentMoniker": "VKRvs\\Models\\Review.cs",
+              "ToolTip": "C:\\Program Files\\Git\\bin\\diplom\\VKRvs\\Models\\Review.cs",
+              "RelativeToolTip": "VKRvs\\Models\\Review.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T16:30:33.129Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Program Files\\Git\\bin\\diplom\\VKRvs\\Pages\\Register.cshtml",
+              "RelativeDocumentMoniker": "VKRvs\\Pages\\Register.cshtml",
+              "ToolTip": "C:\\Program Files\\Git\\bin\\diplom\\VKRvs\\Pages\\Register.cshtml",
+              "RelativeToolTip": "VKRvs\\Pages\\Register.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAC8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-09T20:11:59.711Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-12T12:37:50.438Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "MyOrders.cshtml",
-              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\VKRvs\\VKRvs\\Pages\\MyOrders.cshtml",
-              "RelativeDocumentMoniker": "VKRvs\\Pages\\MyOrders.cshtml",
-              "ToolTip": "C:\\Users\\PC\\Desktop\\VKRvs\\VKRvs\\Pages\\MyOrders.cshtml",
-              "RelativeToolTip": "VKRvs\\Pages\\MyOrders.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD0AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-17T16:23:46.01Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "site.css",
-              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\VKRvs\\VKRvs\\wwwroot\\css\\site.css",
-              "RelativeDocumentMoniker": "VKRvs\\wwwroot\\css\\site.css",
-              "ToolTip": "C:\\Users\\PC\\Desktop\\VKRvs\\VKRvs\\wwwroot\\css\\site.css",
-              "RelativeToolTip": "VKRvs\\wwwroot\\css\\site.css",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAADgAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2025-05-02T10:51:56.547Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Menu.cshtml",
-              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\VKRvs\\VKRvs\\Pages\\Menu.cshtml",
-              "RelativeDocumentMoniker": "VKRvs\\Pages\\Menu.cshtml",
-              "ToolTip": "C:\\Users\\PC\\Desktop\\VKRvs\\VKRvs\\Pages\\Menu.cshtml",
-              "RelativeToolTip": "VKRvs\\Pages\\Menu.cshtml",
-              "ViewState": "AgIAAJ4AAAAAAAAAAAAAAMQAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-09T16:17:01.254Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "WriteReview.cshtml",
-              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\VKRvs\\VKRvs\\Pages\\WriteReview.cshtml",
-              "RelativeDocumentMoniker": "VKRvs\\Pages\\WriteReview.cshtml",
-              "ToolTip": "C:\\Users\\PC\\Desktop\\VKRvs\\VKRvs\\Pages\\WriteReview.cshtml",
-              "RelativeToolTip": "VKRvs\\Pages\\WriteReview.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-27T09:20:08.092Z",
-              "EditorCaption": ""
+              "DocumentIndex": 26,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Program Files\\Git\\bin\\diplom\\VKRvs\\appsettings.json",
+              "RelativeDocumentMoniker": "VKRvs\\appsettings.json",
+              "ToolTip": "C:\\Program Files\\Git\\bin\\diplom\\VKRvs\\appsettings.json",
+              "RelativeToolTip": "VKRvs\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-12T12:23:27.258Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 15,
+              "Title": "MenuController.cs",
+              "DocumentMoniker": "C:\\Program Files\\Git\\bin\\diplom\\VKRvs\\Controllers\\MenuController.cs",
+              "RelativeDocumentMoniker": "VKRvs\\Controllers\\MenuController.cs",
+              "ToolTip": "C:\\Program Files\\Git\\bin\\diplom\\VKRvs\\Controllers\\MenuController.cs",
+              "RelativeToolTip": "VKRvs\\Controllers\\MenuController.cs",
+              "ViewState": "AgIAAD4AAAAAAAAAAAAUwFUAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T16:02:26.87Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Menu.cshtml",
+              "DocumentMoniker": "C:\\Program Files\\Git\\bin\\diplom\\VKRvs\\Pages\\Menu.cshtml",
+              "RelativeDocumentMoniker": "VKRvs\\Pages\\Menu.cshtml",
+              "ToolTip": "C:\\Program Files\\Git\\bin\\diplom\\VKRvs\\Pages\\Menu.cshtml",
+              "RelativeToolTip": "VKRvs\\Pages\\Menu.cshtml",
+              "ViewState": "AgIAAJ4AAAAAAAAAAAAAAMQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-09T16:17:01.254Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "WriteReview.cshtml",
+              "DocumentMoniker": "C:\\Program Files\\Git\\bin\\diplom\\VKRvs\\Pages\\WriteReview.cshtml",
+              "RelativeDocumentMoniker": "VKRvs\\Pages\\WriteReview.cshtml",
+              "ToolTip": "C:\\Program Files\\Git\\bin\\diplom\\VKRvs\\Pages\\WriteReview.cshtml",
+              "RelativeToolTip": "VKRvs\\Pages\\WriteReview.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-27T09:20:08.092Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
               "Title": "Menu.cshtml.cs",
-              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\VKRvs\\VKRvs\\Pages\\Menu.cshtml.cs",
+              "DocumentMoniker": "C:\\Program Files\\Git\\bin\\diplom\\VKRvs\\Pages\\Menu.cshtml.cs",
               "RelativeDocumentMoniker": "VKRvs\\Pages\\Menu.cshtml.cs",
-              "ToolTip": "C:\\Users\\PC\\Desktop\\VKRvs\\VKRvs\\Pages\\Menu.cshtml.cs",
+              "ToolTip": "C:\\Program Files\\Git\\bin\\diplom\\VKRvs\\Pages\\Menu.cshtml.cs",
               "RelativeToolTip": "VKRvs\\Pages\\Menu.cshtml.cs",
               "ViewState": "AgIAAEUAAAAAAAAAAADwv1EAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -398,11 +562,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 29,
               "Title": "MyOrders.cshtml.cs",
-              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\VKRvs\\VKRvs\\Pages\\MyOrders.cshtml.cs",
+              "DocumentMoniker": "C:\\Program Files\\Git\\bin\\diplom\\VKRvs\\Pages\\MyOrders.cshtml.cs",
               "RelativeDocumentMoniker": "VKRvs\\Pages\\MyOrders.cshtml.cs",
-              "ToolTip": "C:\\Users\\PC\\Desktop\\VKRvs\\VKRvs\\Pages\\MyOrders.cshtml.cs",
+              "ToolTip": "C:\\Program Files\\Git\\bin\\diplom\\VKRvs\\Pages\\MyOrders.cshtml.cs",
               "RelativeToolTip": "VKRvs\\Pages\\MyOrders.cshtml.cs",
               "ViewState": "AgIAACIAAAAAAAAAAAAswDUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -410,23 +574,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "Kitchen.cshtml.cs",
-              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\VKRvs\\VKRvs\\Pages\\Kitchen.cshtml.cs",
-              "RelativeDocumentMoniker": "VKRvs\\Pages\\Kitchen.cshtml.cs",
-              "ToolTip": "C:\\Users\\PC\\Desktop\\VKRvs\\VKRvs\\Pages\\Kitchen.cshtml.cs",
-              "RelativeToolTip": "VKRvs\\Pages\\Kitchen.cshtml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAA7AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-17T14:29:44.445Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 25,
               "Title": "Login.cshtml",
-              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\VKRvs\\VKRvs\\Pages\\Login.cshtml",
+              "DocumentMoniker": "C:\\Program Files\\Git\\bin\\diplom\\VKRvs\\Pages\\Login.cshtml",
               "RelativeDocumentMoniker": "VKRvs\\Pages\\Login.cshtml",
-              "ToolTip": "C:\\Users\\PC\\Desktop\\VKRvs\\VKRvs\\Pages\\Login.cshtml",
+              "ToolTip": "C:\\Program Files\\Git\\bin\\diplom\\VKRvs\\Pages\\Login.cshtml",
               "RelativeToolTip": "VKRvs\\Pages\\Login.cshtml",
               "ViewState": "AgIAAAEAAAAAAAAAAAAAACcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -434,11 +586,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 27,
               "Title": "AuthController.cs",
-              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\VKRvs\\VKRvs\\Controllers\\AuthController.cs",
+              "DocumentMoniker": "C:\\Program Files\\Git\\bin\\diplom\\VKRvs\\Controllers\\AuthController.cs",
               "RelativeDocumentMoniker": "VKRvs\\Controllers\\AuthController.cs",
-              "ToolTip": "C:\\Users\\PC\\Desktop\\VKRvs\\VKRvs\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Program Files\\Git\\bin\\diplom\\VKRvs\\Controllers\\AuthController.cs",
               "RelativeToolTip": "VKRvs\\Controllers\\AuthController.cs",
               "ViewState": "AgIAACYAAAAAAAAAAAAUwDoAAABqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -446,11 +598,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 31,
               "Title": "KitchenController.cs",
-              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\VKRvs\\VKRvs\\Controllers\\KitchenController.cs",
+              "DocumentMoniker": "C:\\Program Files\\Git\\bin\\diplom\\VKRvs\\Controllers\\KitchenController.cs",
               "RelativeDocumentMoniker": "VKRvs\\Controllers\\KitchenController.cs",
-              "ToolTip": "C:\\Users\\PC\\Desktop\\VKRvs\\VKRvs\\Controllers\\KitchenController.cs",
+              "ToolTip": "C:\\Program Files\\Git\\bin\\diplom\\VKRvs\\Controllers\\KitchenController.cs",
               "RelativeToolTip": "VKRvs\\Controllers\\KitchenController.cs",
               "ViewState": "AgIAAAEAAAAAAAAAAAAowCYAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -458,23 +610,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "Orderitem.cs",
-              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\VKRvs\\VKRvs\\Models\\Orderitem.cs",
-              "RelativeDocumentMoniker": "VKRvs\\Models\\Orderitem.cs",
-              "ToolTip": "C:\\Users\\PC\\Desktop\\VKRvs\\VKRvs\\Models\\Orderitem.cs",
-              "RelativeToolTip": "VKRvs\\Models\\Orderitem.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAnAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-09T15:57:32.585Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 32,
               "Title": "Customer.cs",
-              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\VKRvs\\VKRvs\\Models\\Customer.cs",
+              "DocumentMoniker": "C:\\Program Files\\Git\\bin\\diplom\\VKRvs\\Models\\Customer.cs",
               "RelativeDocumentMoniker": "VKRvs\\Models\\Customer.cs",
-              "ToolTip": "C:\\Users\\PC\\Desktop\\VKRvs\\VKRvs\\Models\\Customer.cs",
+              "ToolTip": "C:\\Program Files\\Git\\bin\\diplom\\VKRvs\\Models\\Customer.cs",
               "RelativeToolTip": "VKRvs\\Models\\Customer.cs",
               "ViewState": "AgIAABQAAAAAAAAAAAAIwCoAAABbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -482,35 +622,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "Kitchen.cshtml",
-              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\VKRvs\\VKRvs\\Pages\\Kitchen.cshtml",
-              "RelativeDocumentMoniker": "VKRvs\\Pages\\Kitchen.cshtml",
-              "ToolTip": "C:\\Users\\PC\\Desktop\\VKRvs\\VKRvs\\Pages\\Kitchen.cshtml",
-              "RelativeToolTip": "VKRvs\\Pages\\Kitchen.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABjAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-11T08:46:40.349Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "VkrContext.cs",
-              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\VKRvs\\VKRvs\\Models\\VkrContext.cs",
-              "RelativeDocumentMoniker": "VKRvs\\Models\\VkrContext.cs",
-              "ToolTip": "C:\\Users\\PC\\Desktop\\VKRvs\\VKRvs\\Models\\VkrContext.cs",
-              "RelativeToolTip": "VKRvs\\Models\\VkrContext.cs",
-              "ViewState": "AgIAALYAAAAAAAAAAAAcwNMAAABDAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-09T15:55:59.23Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 48,
+              "DocumentIndex": 50,
               "Title": "ReviewController.cs",
-              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\VKRvs\\VKRvs\\Controllers\\ReviewController.cs",
+              "DocumentMoniker": "C:\\Program Files\\Git\\bin\\diplom\\VKRvs\\Controllers\\ReviewController.cs",
               "RelativeDocumentMoniker": "VKRvs\\Controllers\\ReviewController.cs",
-              "ToolTip": "C:\\Users\\PC\\Desktop\\VKRvs\\VKRvs\\Controllers\\ReviewController.cs",
+              "ToolTip": "C:\\Program Files\\Git\\bin\\diplom\\VKRvs\\Controllers\\ReviewController.cs",
               "RelativeToolTip": "VKRvs\\Controllers\\ReviewController.cs",
               "ViewState": "AgIAAA0AAAAAAAAAAAAgwBgAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -518,11 +634,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 49,
+              "DocumentIndex": 51,
               "Title": "LeaveReview.cshtml",
-              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\VKRvs\\VKRvs\\Pages\\LeaveReview.cshtml",
+              "DocumentMoniker": "C:\\Program Files\\Git\\bin\\diplom\\VKRvs\\Pages\\LeaveReview.cshtml",
               "RelativeDocumentMoniker": "VKRvs\\Pages\\LeaveReview.cshtml",
-              "ToolTip": "C:\\Users\\PC\\Desktop\\VKRvs\\VKRvs\\Pages\\LeaveReview.cshtml",
+              "ToolTip": "C:\\Program Files\\Git\\bin\\diplom\\VKRvs\\Pages\\LeaveReview.cshtml",
               "RelativeToolTip": "VKRvs\\Pages\\LeaveReview.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -530,11 +646,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 50,
+              "DocumentIndex": 52,
               "Title": "LeaveReview.cshtml.cs",
-              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\VKRvs\\VKRvs\\Pages\\LeaveReview.cshtml.cs",
+              "DocumentMoniker": "C:\\Program Files\\Git\\bin\\diplom\\VKRvs\\Pages\\LeaveReview.cshtml.cs",
               "RelativeDocumentMoniker": "VKRvs\\Pages\\LeaveReview.cshtml.cs",
-              "ToolTip": "C:\\Users\\PC\\Desktop\\VKRvs\\VKRvs\\Pages\\LeaveReview.cshtml.cs",
+              "ToolTip": "C:\\Program Files\\Git\\bin\\diplom\\VKRvs\\Pages\\LeaveReview.cshtml.cs",
               "RelativeToolTip": "VKRvs\\Pages\\LeaveReview.cshtml.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -542,11 +658,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 33,
               "Title": "LoyaltyTransaction.cs",
-              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\VKRvs\\VKRvs\\Models\\LoyaltyTransaction.cs",
+              "DocumentMoniker": "C:\\Program Files\\Git\\bin\\diplom\\VKRvs\\Models\\LoyaltyTransaction.cs",
               "RelativeDocumentMoniker": "VKRvs\\Models\\LoyaltyTransaction.cs",
-              "ToolTip": "C:\\Users\\PC\\Desktop\\VKRvs\\VKRvs\\Models\\LoyaltyTransaction.cs",
+              "ToolTip": "C:\\Program Files\\Git\\bin\\diplom\\VKRvs\\Models\\LoyaltyTransaction.cs",
               "RelativeToolTip": "VKRvs\\Models\\LoyaltyTransaction.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -554,11 +670,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 30,
               "Title": "Cart.cshtml.cs",
-              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\VKRvs\\VKRvs\\Pages\\Cart.cshtml.cs",
+              "DocumentMoniker": "C:\\Program Files\\Git\\bin\\diplom\\VKRvs\\Pages\\Cart.cshtml.cs",
               "RelativeDocumentMoniker": "VKRvs\\Pages\\Cart.cshtml.cs",
-              "ToolTip": "C:\\Users\\PC\\Desktop\\VKRvs\\VKRvs\\Pages\\Cart.cshtml.cs",
+              "ToolTip": "C:\\Program Files\\Git\\bin\\diplom\\VKRvs\\Pages\\Cart.cshtml.cs",
               "RelativeToolTip": "VKRvs\\Pages\\Cart.cshtml.cs",
               "ViewState": "AgIAAE8AAAAAAAAAAAAcwGoAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -566,23 +682,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
-              "Title": "AdminPanelController.cs",
-              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\VKRvs\\VKRvs\\Controllers\\AdminPanelController.cs",
-              "RelativeDocumentMoniker": "VKRvs\\Controllers\\AdminPanelController.cs",
-              "ToolTip": "C:\\Users\\PC\\Desktop\\VKRvs\\VKRvs\\Controllers\\AdminPanelController.cs",
-              "RelativeToolTip": "VKRvs\\Controllers\\AdminPanelController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAoAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-08T16:32:05.642Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 43,
+              "DocumentIndex": 45,
               "Title": "AdminPanel.cshtml",
-              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\VKRvs\\VKRvs\\Pages\\AdminPanel.cshtml",
+              "DocumentMoniker": "C:\\Program Files\\Git\\bin\\diplom\\VKRvs\\Pages\\AdminPanel.cshtml",
               "RelativeDocumentMoniker": "VKRvs\\Pages\\AdminPanel.cshtml",
-              "ToolTip": "C:\\Users\\PC\\Desktop\\VKRvs\\VKRvs\\Pages\\AdminPanel.cshtml",
+              "ToolTip": "C:\\Program Files\\Git\\bin\\diplom\\VKRvs\\Pages\\AdminPanel.cshtml",
               "RelativeToolTip": "VKRvs\\Pages\\AdminPanel.cshtml",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAAEQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -590,11 +694,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 42,
+              "DocumentIndex": 44,
               "Title": "AdminPanel.cshtml.cs",
-              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\VKRvs\\VKRvs\\Pages\\AdminPanel.cshtml.cs",
+              "DocumentMoniker": "C:\\Program Files\\Git\\bin\\diplom\\VKRvs\\Pages\\AdminPanel.cshtml.cs",
               "RelativeDocumentMoniker": "VKRvs\\Pages\\AdminPanel.cshtml.cs",
-              "ToolTip": "C:\\Users\\PC\\Desktop\\VKRvs\\VKRvs\\Pages\\AdminPanel.cshtml.cs",
+              "ToolTip": "C:\\Program Files\\Git\\bin\\diplom\\VKRvs\\Pages\\AdminPanel.cshtml.cs",
               "RelativeToolTip": "VKRvs\\Pages\\AdminPanel.cshtml.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAADsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -602,23 +706,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
-              "Title": "Order.cs",
-              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\VKRvs\\VKRvs\\Models\\Order.cs",
-              "RelativeDocumentMoniker": "VKRvs\\Models\\Order.cs",
-              "ToolTip": "C:\\Users\\PC\\Desktop\\VKRvs\\VKRvs\\Models\\Order.cs",
-              "RelativeToolTip": "VKRvs\\Models\\Order.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAhAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-22T16:30:08.577Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 44,
+              "DocumentIndex": 46,
               "Title": "AdminLogin.cshtml",
-              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\VKRvs\\VKRvs\\Pages\\AdminLogin.cshtml",
+              "DocumentMoniker": "C:\\Program Files\\Git\\bin\\diplom\\VKRvs\\Pages\\AdminLogin.cshtml",
               "RelativeDocumentMoniker": "VKRvs\\Pages\\AdminLogin.cshtml",
-              "ToolTip": "C:\\Users\\PC\\Desktop\\VKRvs\\VKRvs\\Pages\\AdminLogin.cshtml",
+              "ToolTip": "C:\\Program Files\\Git\\bin\\diplom\\VKRvs\\Pages\\AdminLogin.cshtml",
               "RelativeToolTip": "VKRvs\\Pages\\AdminLogin.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -626,11 +718,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 45,
+              "DocumentIndex": 47,
               "Title": "AdminLogin.cshtml.cs",
-              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\VKRvs\\VKRvs\\Pages\\AdminLogin.cshtml.cs",
+              "DocumentMoniker": "C:\\Program Files\\Git\\bin\\diplom\\VKRvs\\Pages\\AdminLogin.cshtml.cs",
               "RelativeDocumentMoniker": "VKRvs\\Pages\\AdminLogin.cshtml.cs",
-              "ToolTip": "C:\\Users\\PC\\Desktop\\VKRvs\\VKRvs\\Pages\\AdminLogin.cshtml.cs",
+              "ToolTip": "C:\\Program Files\\Git\\bin\\diplom\\VKRvs\\Pages\\AdminLogin.cshtml.cs",
               "RelativeToolTip": "VKRvs\\Pages\\AdminLogin.cshtml.cs",
               "ViewState": "AgIAAAgAAAAAAAAAAAAAwCsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -638,11 +730,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 34,
               "Title": "Login.cshtml.cs",
-              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\VKRvs\\VKRvs\\Pages\\Login.cshtml.cs",
+              "DocumentMoniker": "C:\\Program Files\\Git\\bin\\diplom\\VKRvs\\Pages\\Login.cshtml.cs",
               "RelativeDocumentMoniker": "VKRvs\\Pages\\Login.cshtml.cs",
-              "ToolTip": "C:\\Users\\PC\\Desktop\\VKRvs\\VKRvs\\Pages\\Login.cshtml.cs",
+              "ToolTip": "C:\\Program Files\\Git\\bin\\diplom\\VKRvs\\Pages\\Login.cshtml.cs",
               "RelativeToolTip": "VKRvs\\Pages\\Login.cshtml.cs",
               "ViewState": "AgIAABgAAAAAAAAAAAAAwEEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -650,11 +742,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 35,
               "Title": "CustomerDto.cs",
-              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\VKRvs\\VKRvs\\DTO\\CustomerDto.cs",
+              "DocumentMoniker": "C:\\Program Files\\Git\\bin\\diplom\\VKRvs\\DTO\\CustomerDto.cs",
               "RelativeDocumentMoniker": "VKRvs\\DTO\\CustomerDto.cs",
-              "ToolTip": "C:\\Users\\PC\\Desktop\\VKRvs\\VKRvs\\DTO\\CustomerDto.cs",
+              "ToolTip": "C:\\Program Files\\Git\\bin\\diplom\\VKRvs\\DTO\\CustomerDto.cs",
               "RelativeToolTip": "VKRvs\\DTO\\CustomerDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -662,23 +754,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
-              "Title": "_ViewStart.cshtml",
-              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\VKRvs\\VKRvs\\Pages\\_ViewStart.cshtml",
-              "RelativeDocumentMoniker": "VKRvs\\Pages\\_ViewStart.cshtml",
-              "ToolTip": "C:\\Users\\PC\\Desktop\\VKRvs\\VKRvs\\Pages\\_ViewStart.cshtml",
-              "RelativeToolTip": "VKRvs\\Pages\\_ViewStart.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-15T19:29:51.932Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 36,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\VKRvs\\VKRvs\\Program.cs",
+              "DocumentMoniker": "C:\\Program Files\\Git\\bin\\diplom\\VKRvs\\Program.cs",
               "RelativeDocumentMoniker": "VKRvs\\Program.cs",
-              "ToolTip": "C:\\Users\\PC\\Desktop\\VKRvs\\VKRvs\\Program.cs",
+              "ToolTip": "C:\\Program Files\\Git\\bin\\diplom\\VKRvs\\Program.cs",
               "RelativeToolTip": "VKRvs\\Program.cs",
               "ViewState": "AgIAACEAAAAAAAAAAAAAwEoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -686,11 +766,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
+              "DocumentIndex": 37,
               "Title": "Reservation.cs",
-              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\VKRvs\\VKRvs\\Models\\Reservation.cs",
+              "DocumentMoniker": "C:\\Program Files\\Git\\bin\\diplom\\VKRvs\\Models\\Reservation.cs",
               "RelativeDocumentMoniker": "VKRvs\\Models\\Reservation.cs",
-              "ToolTip": "C:\\Users\\PC\\Desktop\\VKRvs\\VKRvs\\Models\\Reservation.cs",
+              "ToolTip": "C:\\Program Files\\Git\\bin\\diplom\\VKRvs\\Models\\Reservation.cs",
               "RelativeToolTip": "VKRvs\\Models\\Reservation.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -698,11 +778,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 35,
+              "DocumentIndex": 39,
               "Title": "Payment.cs",
-              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\VKRvs\\VKRvs\\Models\\Payment.cs",
+              "DocumentMoniker": "C:\\Program Files\\Git\\bin\\diplom\\VKRvs\\Models\\Payment.cs",
               "RelativeDocumentMoniker": "VKRvs\\Models\\Payment.cs",
-              "ToolTip": "C:\\Users\\PC\\Desktop\\VKRvs\\VKRvs\\Models\\Payment.cs",
+              "ToolTip": "C:\\Program Files\\Git\\bin\\diplom\\VKRvs\\Models\\Payment.cs",
               "RelativeToolTip": "VKRvs\\Models\\Payment.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -710,59 +790,35 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 46,
+              "DocumentIndex": 48,
               "Title": "Admin.cshtml",
               "DocumentMoniker": "C:\\Users\\PC\\Desktop\\VKRvs\\VKRvs\\Pages\\Admin.cshtml",
-              "RelativeDocumentMoniker": "VKRvs\\Pages\\Admin.cshtml",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\Users\\PC\\Desktop\\VKRvs\\VKRvs\\Pages\\Admin.cshtml",
               "ToolTip": "C:\\Users\\PC\\Desktop\\VKRvs\\VKRvs\\Pages\\Admin.cshtml",
-              "RelativeToolTip": "VKRvs\\Pages\\Admin.cshtml",
+              "RelativeToolTip": "..\\..\\..\\..\\Users\\PC\\Desktop\\VKRvs\\VKRvs\\Pages\\Admin.cshtml",
               "ViewState": "AgIAADMAAAAAAAAAAAAuwJUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-01-10T17:53:32.403Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 33,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\VKRvs\\VKRvs\\Pages\\Index.cshtml",
-              "RelativeDocumentMoniker": "VKRvs\\Pages\\Index.cshtml",
-              "ToolTip": "C:\\Users\\PC\\Desktop\\VKRvs\\VKRvs\\Pages\\Index.cshtml",
-              "RelativeToolTip": "VKRvs\\Pages\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-15T19:29:20.774Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 32,
-              "Title": "_ViewImports.cshtml",
-              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\VKRvs\\VKRvs\\Pages\\_ViewImports.cshtml",
-              "RelativeDocumentMoniker": "VKRvs\\Pages\\_ViewImports.cshtml",
-              "ToolTip": "C:\\Users\\PC\\Desktop\\VKRvs\\VKRvs\\Pages\\_ViewImports.cshtml",
-              "RelativeToolTip": "VKRvs\\Pages\\_ViewImports.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-15T19:29:53.272Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 47,
+              "DocumentIndex": 49,
               "Title": "Admin.cshtml.cs",
               "DocumentMoniker": "C:\\Users\\PC\\Desktop\\VKRvs\\VKRvs\\Pages\\Admin.cshtml.cs",
-              "RelativeDocumentMoniker": "VKRvs\\Pages\\Admin.cshtml.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\Users\\PC\\Desktop\\VKRvs\\VKRvs\\Pages\\Admin.cshtml.cs",
               "ToolTip": "C:\\Users\\PC\\Desktop\\VKRvs\\VKRvs\\Pages\\Admin.cshtml.cs",
-              "RelativeToolTip": "VKRvs\\Pages\\Admin.cshtml.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\Users\\PC\\Desktop\\VKRvs\\VKRvs\\Pages\\Admin.cshtml.cs",
               "ViewState": "AgIAAAwAAAAAAAAAAAAAAEQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-10T17:55:34.778Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 34,
+              "DocumentIndex": 38,
               "Title": "RegistrationDto.cs",
-              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\VKRvs\\VKRvs\\DTO\\RegistrationDto.cs",
+              "DocumentMoniker": "C:\\Program Files\\Git\\bin\\diplom\\VKRvs\\DTO\\RegistrationDto.cs",
               "RelativeDocumentMoniker": "VKRvs\\DTO\\RegistrationDto.cs",
-              "ToolTip": "C:\\Users\\PC\\Desktop\\VKRvs\\VKRvs\\DTO\\RegistrationDto.cs",
+              "ToolTip": "C:\\Program Files\\Git\\bin\\diplom\\VKRvs\\DTO\\RegistrationDto.cs",
               "RelativeToolTip": "VKRvs\\DTO\\RegistrationDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -770,35 +826,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 36,
-              "Title": "MenuitemIngredient.cs",
-              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\VKRvs\\VKRvs\\Models\\MenuitemIngredient.cs",
-              "RelativeDocumentMoniker": "VKRvs\\Models\\MenuitemIngredient.cs",
-              "ToolTip": "C:\\Users\\PC\\Desktop\\VKRvs\\VKRvs\\Models\\MenuitemIngredient.cs",
-              "RelativeToolTip": "VKRvs\\Models\\MenuitemIngredient.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-22T16:29:40.07Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 37,
-              "Title": "Ingredient.cs",
-              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\VKRvs\\VKRvs\\Models\\Ingredient.cs",
-              "RelativeDocumentMoniker": "VKRvs\\Models\\Ingredient.cs",
-              "ToolTip": "C:\\Users\\PC\\Desktop\\VKRvs\\VKRvs\\Models\\Ingredient.cs",
-              "RelativeToolTip": "VKRvs\\Models\\Ingredient.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-22T13:58:04.498Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 41,
+              "DocumentIndex": 43,
               "Title": "CartItemDto.cs",
-              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\VKRvs\\VKRvs\\DTO\\CartItemDto.cs",
+              "DocumentMoniker": "C:\\Program Files\\Git\\bin\\diplom\\VKRvs\\DTO\\CartItemDto.cs",
               "RelativeDocumentMoniker": "VKRvs\\DTO\\CartItemDto.cs",
-              "ToolTip": "C:\\Users\\PC\\Desktop\\VKRvs\\VKRvs\\DTO\\CartItemDto.cs",
+              "ToolTip": "C:\\Program Files\\Git\\bin\\diplom\\VKRvs\\DTO\\CartItemDto.cs",
               "RelativeToolTip": "VKRvs\\DTO\\CartItemDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -806,11 +838,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 39,
+              "DocumentIndex": 41,
               "Title": "MenuItemDto.cs",
-              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\VKRvs\\VKRvs\\DTO\\MenuItemDto.cs",
+              "DocumentMoniker": "C:\\Program Files\\Git\\bin\\diplom\\VKRvs\\DTO\\MenuItemDto.cs",
               "RelativeDocumentMoniker": "VKRvs\\DTO\\MenuItemDto.cs",
-              "ToolTip": "C:\\Users\\PC\\Desktop\\VKRvs\\VKRvs\\DTO\\MenuItemDto.cs",
+              "ToolTip": "C:\\Program Files\\Git\\bin\\diplom\\VKRvs\\DTO\\MenuItemDto.cs",
               "RelativeToolTip": "VKRvs\\DTO\\MenuItemDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -818,11 +850,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 38,
+              "DocumentIndex": 40,
               "Title": "Register.cshtml.cs",
-              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\VKRvs\\VKRvs\\Pages\\Register.cshtml.cs",
+              "DocumentMoniker": "C:\\Program Files\\Git\\bin\\diplom\\VKRvs\\Pages\\Register.cshtml.cs",
               "RelativeDocumentMoniker": "VKRvs\\Pages\\Register.cshtml.cs",
-              "ToolTip": "C:\\Users\\PC\\Desktop\\VKRvs\\VKRvs\\Pages\\Register.cshtml.cs",
+              "ToolTip": "C:\\Program Files\\Git\\bin\\diplom\\VKRvs\\Pages\\Register.cshtml.cs",
               "RelativeToolTip": "VKRvs\\Pages\\Register.cshtml.cs",
               "ViewState": "AgIAAAgAAAAAAAAAAAAgwCUAAABaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -830,11 +862,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 40,
+              "DocumentIndex": 42,
               "Title": "MenuitemMapper.cs",
-              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\VKRvs\\VKRvs\\Mappers\\MenuitemMapper.cs",
+              "DocumentMoniker": "C:\\Program Files\\Git\\bin\\diplom\\VKRvs\\Mappers\\MenuitemMapper.cs",
               "RelativeDocumentMoniker": "VKRvs\\Mappers\\MenuitemMapper.cs",
-              "ToolTip": "C:\\Users\\PC\\Desktop\\VKRvs\\VKRvs\\Mappers\\MenuitemMapper.cs",
+              "ToolTip": "C:\\Program Files\\Git\\bin\\diplom\\VKRvs\\Mappers\\MenuitemMapper.cs",
               "RelativeToolTip": "VKRvs\\Mappers\\MenuitemMapper.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
